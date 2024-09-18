@@ -1,12 +1,14 @@
-<h2 align="center">MecaChess-Robotic-Arm</h2> 
+<h1 align="center">MecaChess-Robotic-Arm</h1> 
 
 <p align="center">
-  <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/raw/main/brazo%20robot%20.jpg" alt="Brazo Robótico" width="600"/>
+  <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/raw/main/brazo%20robot%20.jpg" alt="Brazo Robótico" width="300"/>
 </p>
 
 El presente proyecto denominado **"MecaChess Robotic Arm"** tiene como finalidad la creación de un brazo robótico antropomórfico de 4 grados de libertad, diseñado para jugar al ajedrez de manera autónoma. Además, se le incorporaron funciones adicionales que permiten acomodar las piezas al inicio de una partida, jugar a través de la aplicación Chess.com, moverse por comandos de voz e identificar jugadas ilegales, entre otras. Para hacerlo más accesible, se emplearon materiales económicos y reciclados, logrando un balance óptimo entre costo y precisión sin comprometer la funcionalidad del brazo. Por último, se continúa trabajando en la incorporación de nuevas funcionalidades, como la implementación de inteligencia artificial y mejoras en el diseño, entre otros aspectos.
 
-## Recursos y Tecnologias Integradas
+<h1 align="center">Recursos y Tecnologias Integradas</h1> 
+
+# Software Empleado
 
 | Software                  | Descripción                                                                                        |
 |--------------------------|-----------------------------------------------------------------------------------------------------|
@@ -15,6 +17,8 @@ El presente proyecto denominado **"MecaChess Robotic Arm"** tiene como finalidad
 | Python                  | Se utilizó Python para el desarrollo de la lógica del juego, incluyendo la detección de piezas, el manejo del tablero y el mapeo de las jugadas.   |
 | Arduino IDE              |  Se utilizó Arduino IDE para programar la lógica de las cinemáticas y las funciones necesarias para controlar los movimientos del brazo robótico. |
 |  Stockfish                | Se utilizó Stockfish como motor de ajedrez para la evaluación de posiciones y la generación de movimientos óptimos durante las partidas.         |
+
+# Bibliotecas de Phyton Utilizadas
 
 | Biblioteca               | Descripción                                                                                         |
 |--------------------------|-----------------------------------------------------------------------------------------------------|
