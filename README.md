@@ -34,6 +34,9 @@ El presente proyecto denominado **"MecaChess Robotic Arm"** tiene como finalidad
 
 
 
+<h1 align="center">Diseño Mecanico y Cinematicas</h1> 
+
+
 <h2 align="center">Pruebas de Precision</h2>
 <p align="center">
   <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/raw/main/brazo%20robot.gif" alt="Demostración" width="300"/>
