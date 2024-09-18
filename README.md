@@ -4,7 +4,7 @@
 
 <div style="display: flex; justify-content: center;">
   <div style="margin-right: 20px;">
-    <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/raw/main/brazo%20robot.jpg" alt="Brazo Robótico" width="300"/>
+    <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/raw/main/brazo%20robot%20.jpg" alt="Brazo Robótico" width="300"/>
   </div>
   <div>
     <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/raw/main/brazo%20robot.gif" alt="Demostración" width="300"/>
