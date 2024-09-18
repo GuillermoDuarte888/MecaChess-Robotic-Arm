@@ -3,7 +3,7 @@
 
 El presente proyecto denominado **"MecaChess Robotic Arm"** tiene como finalidad la creación de un brazo robótico antropomórfico de 4 grados de libertad, diseñado para jugar al ajedrez de manera autónoma. Además, se le incorporaron funciones adicionales que permiten acomodar las piezas al inicio de una partida, jugar a través de la aplicación Chess.com, moverse por comandos de voz e identificar jugadas ilegales, entre otras. Para hacerlo más accesible, se emplearon materiales económicos y reciclados, logrando un balance óptimo entre costo y precisión sin comprometer la funcionalidad del brazo. Por último, se continúa trabajando en la incorporación de nuevas funcionalidades, como la implementación de inteligencia artificial y mejoras en el diseño, entre otros aspectos.
 
-## Tecnologías Empleadas
+## Recursos y Tecnologias Integradas
 
 | Software                  | Descripción                                                                                        |
 |--------------------------|-----------------------------------------------------------------------------------------------------|
@@ -13,3 +13,13 @@ El presente proyecto denominado **"MecaChess Robotic Arm"** tiene como finalidad
 | Arduino IDE              |  Se utilizó Arduino IDE para programar la lógica de las cinemáticas y las funciones necesarias para controlar los movimientos del brazo robótico. |
 |  Stockfish                | Se utilizó Stockfish como motor de ajedrez para la evaluación de posiciones y la generación de movimientos óptimos durante las partidas.         |
 
+| Biblioteca               | Descripción                                                                                         |
+|--------------------------|-----------------------------------------------------------------------------------------------------|
+| OpenCV                   | Biblioteca para tareas de visión por computadora, utilizada para procesamiento de imágenes y detección de objetos. |
+| NumPy                    | Biblioteca para cálculos numéricos, que facilita la manipulación de arreglos y operaciones matemáticas complejas. |
+| Matplotlib               | Biblioteca para la visualización de datos y gráficos, que permite crear representaciones gráficas de información. |
+| Chess                    | Biblioteca que gestiona las reglas del ajedrez, incluyendo movimientos, validaciones y análisis de partidas. |
+| IPython.display          | Herramienta para mostrar gráficos y SVG en notebooks de Jupyter, facilitando la visualización de datos. |
+| Serial                   | Biblioteca que permite la comunicación serie con dispositivos externos, útil para interactuar con hardware. |
+| Time                     | Módulo que proporciona funciones para medir y controlar el tiempo, utilizado para la sincronización de eventos. |
+| Copy                     | Módulo que permite la creación de copias superficiales y profundas de objetos en Python. |
