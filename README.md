@@ -34,7 +34,7 @@ El presente proyecto denominado **"MecaChess Robotic Arm"** tiene como finalidad
 
 
 
-<h2 align="center">Acomodando piezas</h2>
+<h2 align="center">Acomodando Piezas</h2>
 <p align="center">
   <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/raw/main/brazo%20robot.gif" alt="Demostración" width="300"/>
 </p>
