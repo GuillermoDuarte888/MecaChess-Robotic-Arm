@@ -40,13 +40,15 @@ El presente proyecto denominado **"MecaChess Robotic Arm"** tiene como finalidad
 
 La cinemática directa permite calcular la posición y orientación del efector final del robot ajedrecista a partir de los valores de las articulaciones. Para ello, se utilizan transformaciones homogéneas aplicadas de manera sistemática, empleando el método de Denavit-Hartenberg. Este enfoque proporciona un marco estándar para representar las configuraciones articulares y facilita la obtención de las coordenadas del efector final en el espacio tridimensional. Comprender este proceso es fundamental para analizar el movimiento del robot en el tablero de ajedrez y es esencial para el diseño de algoritmos de control de trayectorias que optimicen su desempeño en el juego.
 
+<p align="center">
+  <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/blob/main/Cinematica%20Directa%20Robot%204%20GDL.png" alt="Brazo Robótico" width="1000"/>
+</p>
+
 # Cinematica Inversa
 
 En el contexto del robot ajedrecista, la cinemática inversa se utiliza para determinar los ángulos de las articulaciones necesarios para alcanzar una posición y orientación específicas, como posicionar el efector final en una casilla del tablero. Se implementan tanto el método geométrico como el analítico para verificar los resultados, considerando diferentes configuraciones, como codo arriba y codo abajo. Esta capacidad de ajuste es fundamental para garantizar un movimiento preciso y efectivo del robot al realizar sus jugadas.
 
-<p align="center">
-  <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/blob/main/Cinematica%20Directa%20Robot%204%20GDL.png" alt="Brazo Robótico" width="1000"/>
-</p>
+
 
 <h2 align="center">Pruebas de Precision</h2>
 <p align="center">
