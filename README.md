@@ -31,3 +31,10 @@ El presente proyecto denominado **"MecaChess Robotic Arm"** tiene como finalidad
 | Serial                   | Biblioteca que permite la comunicación serie con dispositivos externos, útil para interactuar con hardware. |
 | Time                     | Módulo que proporciona funciones para medir y controlar el tiempo, utilizado para la sincronización de eventos. |
 | Copy                     | Módulo que permite la creación de copias superficiales y profundas de objetos en Python. |
+
+
+
+<h2 align="center">Demostración en GIF</h2>
+<p align="center">
+  <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/raw/main/brazo%20robot.gif" alt="Demostración" width="600"/>
+</p>
