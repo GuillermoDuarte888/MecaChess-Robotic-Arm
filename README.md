@@ -44,6 +44,14 @@ La cinemática directa permite calcular la posición y orientación del efector 
   <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/blob/main/Cinematica%20Directa%20Robot%204%20GDL.png" alt="Brazo Robótico" width="1000"/>
 </p>
 
+Diferente Configuracion para una misma coordenada
+
+
+<p align="center">
+  <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/raw/main/Cinematica%20Directa%20simulacion.png" alt="Brazo Robótico" width="1000"/>
+</p>
+
+
 # Cinematica Inversa
 
 En el contexto del robot ajedrecista, la cinemática inversa se utiliza para determinar los ángulos de las articulaciones necesarios para alcanzar una posición y orientación específicas, como posicionar el efector final en una casilla del tablero. Se implementan tanto el método geométrico como el analítico para verificar los resultados, considerando diferentes configuraciones, como codo arriba y codo abajo. Esta capacidad de ajuste es fundamental para garantizar un movimiento preciso y efectivo del robot al realizar sus jugadas.
