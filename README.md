@@ -88,3 +88,19 @@ En esta sección se presenta el diseño mecánico del robot ajedrecista, desglos
   <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/raw/main/brazo%20robot.gif" alt="Demostración" width="300"/>
 </p>
 
+
+# Reconocimientos
+
+Quisiera expresar mi más sincero agradecimiento a varias personas y organizaciones que hicieron posible este proyecto:
+
+**Gaston Alejandro Díaz**: Quiero expresar mi sincero agradecimiento a mi colega por su apoyo incondicional y valiosa colaboración a lo largo de toda la carrera. Nuestro crecimiento y evolución conjunta han sido esenciales para el éxito de este proyecto, y su dedicación ha sido una fuente constante de inspiración.
+
+
+**Profesor Ingeniero Cristian Leandro Lukasiewicz**: Estoy profundamente agradecido con el profesor Lukasiewicz por supervisar nuestra Práctica Profesional Supervisada (PPS) y por su valiosa orientación y apoyo durante todo el proceso en la carrera de Ingeniería Mecatrónica. Su compromiso y profesionalismo han sido una fuente de inspiración, estableciendo un ejemplo a seguir en el campo de la ingeniería y motivándome a alcanzar mis metas académicas y profesionales.
+
+**Universidad Nacional de Lomas de Zamora**, Facultad de Ingeniería: Agradezco sinceramente a la universidad por brindarme acceso a un entorno académico enriquecedor que ha facilitado mi desarrollo y me ha permitido adquirir valiosos conocimientos en mi formación como ingeniero.
+
+**A mis profesores y familiares**: Quiero expresar mi agradecimiento a todos mis profesores y a mi familia por su apoyo incondicional a lo largo de este proceso. Su aliento y orientación han sido fundamentales en mi formación y crecimiento personal.
+
+A todos los lectores: Espero que este proyecto les resulte interesante y útil.
+
