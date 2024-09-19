@@ -53,8 +53,11 @@ El siguiente programa, desarrollado en Python, permite simular diversas configur
 
 # Cinematica Inversa
 
-En el contexto del robot ajedrecista, la cinemática inversa se utiliza para determinar los ángulos de las articulaciones necesarios para alcanzar una posición y orientación específicas, como posicionar el efector final en una casilla del tablero. Se implementan tanto el método geométrico como el analítico para verificar los resultados, considerando diferentes configuraciones, como codo arriba y codo abajo. Esta capacidad de ajuste es fundamental para garantizar un movimiento preciso y efectivo del robot al realizar sus jugadas.
+En el contexto del robot ajedrecista, la cinemática inversa se utiliza para determinar los ángulos de las articulaciones necesarios para alcanzar una posición y orientación específicas, como posicionar el efector final en una casilla del tablero. Se implementan tanto el método geométrico como el analítico para verificar los resultados, considerando diferentes configuraciones, como codo arriba y codo abajo. Esta capacidad de ajuste es fundamental para garantizar un movimiento preciso y efectivo del robot al realizar sus jugadas. A modo de corroboración, se puede observar que la posición y orientación proporcionadas por la cinemática directa, al ser ingresadas en la cinemática inversa, generan los mismos ángulos de las articulaciones utilizados en la cinemática directa. Esto valida la precisión de ambos métodos y asegura que el robot puede reproducir efectivamente las posiciones deseadas en el tablero.
 
+<p align="center">
+  <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/raw/main/Cinematica%20Directa%20e%20Inversa.png" alt="Brazo Robótico" width="1100"/>
+</p>
 
 
 <h2 align="center">Pruebas de Precision</h2>
