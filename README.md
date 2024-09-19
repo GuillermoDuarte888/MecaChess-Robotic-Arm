@@ -41,11 +41,10 @@ El presente proyecto denominado **"MecaChess Robotic Arm"** tiene como finalidad
 La cinemática directa permite calcular la posición y orientación del efector final del robot ajedrecista a partir de los valores de las articulaciones. Para ello, se utilizan transformaciones homogéneas aplicadas de manera sistemática, empleando el método de Denavit-Hartenberg. Este enfoque proporciona un marco estándar para representar las configuraciones articulares y facilita la obtención de las coordenadas del efector final en el espacio tridimensional. Comprender este proceso es fundamental para analizar el movimiento del robot en el tablero de ajedrez y es esencial para el diseño de algoritmos de control de trayectorias que optimicen su desempeño en el juego.
 
 <p align="center">
-  <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/blob/main/Cinematica%20Directa%20Robot%204%20GDL.png" alt="Brazo Robótico" width="1000"/>
+  <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/blob/main/Cinematica%20Directa%20Robot%204%20GDL.png" alt="Brazo Robótico" width="800"/>
 </p>
 
-Diferente Configuracion para una misma coordenada
-
+El siguiente programa, desarrollado en Python, permite simular diversas configuraciones de articulaciones que alcanzan una misma posición del extremo del manipulador robótico. Esto muestra las diferentes alternativas disponibles. En la imagen de la derecha, se puede observar que q3 tiene la configuración "codo arriba", lo que hace que q2 deba quedar hacia abajo, ya que su cálculo depende de q3. Por otro lado, en la imagen de la izquierda, q3 presenta la configuración "codo abajo", lo que implica que q2 debe posicionarse hacia arriba, de acuerdo con la dependencia mencionada entre ambos ángulos.
 
 <p align="center">
   <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/raw/main/Cinematica%20Directa%20simulacion.png" alt="Brazo Robótico" width="1000"/>
