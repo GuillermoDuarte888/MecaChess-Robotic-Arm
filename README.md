@@ -59,6 +59,9 @@ En el contexto del robot ajedrecista, la cinemática inversa se utiliza para det
   <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/raw/main/Cinematica%20Directa%20e%20Inversa.png" alt="Brazo Robótico" width="1100"/>
 </p>
 
+# Diseño Mecanico
+
+
 
 <h2 align="center">Pruebas de Precision</h2>
 <p align="center">
