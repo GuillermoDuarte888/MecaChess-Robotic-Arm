@@ -79,18 +79,18 @@ En esta sección se presenta el diseño mecánico del robot ajedrecista, desglos
   <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/raw/main/Piezas%20del%20Brazo%20Robot.png" alt="Brazo Robótico" width="1100"/>
 </p>
 
-| Número | Componente                      | Descripción                                       |
-|--------|----------------------------------|---------------------------------------------------|
-| 1      | Base                             | Soporte estable que sostiene todo el sistema.     |
-| 2      | Hombro                           | Permite el movimiento del brazo en diferentes ángulos. |
-| 3      | Brazo                            | Conecta el hombro con el antebrazo, facilitando el movimiento. |
-| 4      | Antebrazo                       | Parte que conecta el brazo con la muñeca.         |
-| 5      | Muñeca                          | Proporciona flexibilidad y movimiento del gripper.  |
-| 6      | Mano                             | El efector final que interactúa con el tablero.    |
-| 7      | Unión de Pinza parte 1         | Primera parte de la pinza que permite el agarre.   |
-| 8      | Unión de Pinza parte 2         | Segunda parte que complementa el mecanismo de agarre. |
-| 9      | Unión de Pinza parte 3         | Tercera parte que complementa el mecanismo de agarre. |
-| 10     | Dedos                            | Elemento que permiten un agarre preciso y controlado de las piezas. |
+| Número | Componente                      | Descripción                                       | Cantidad              |
+|--------|----------------------------------|---------------------------------------------------|----------------------|
+| 1      | Base                             | Soporte estable que sostiene todo el sistema.     | 1                    |
+| 2      | Hombro                           | Permite el movimiento del brazo en diferentes ángulos. | 1               |
+| 3      | Brazo                            | Conecta el hombro con el antebrazo, facilitando el movimiento. | 1       |
+| 4      | Antebrazo                       | Parte que conecta el brazo con la muñeca.         | 1                     |
+| 5      | Muñeca                          | Proporciona flexibilidad y movimiento del gripper.  | 1                   |
+| 6      | Mano                             | El efector final que interactúa con el tablero.    | 1                   |
+| 7      | Unión de Pinza parte 1         | Primera parte de la pinza que permite el agarre.   | 1                     |
+| 8      | Unión de Pinza parte 2         | Segunda parte que complementa el mecanismo de agarre. | 1                  |
+| 9      | Unión de Pinza parte 3         | Tercera parte que complementa el mecanismo de agarre. | 4                  |
+| 10     | Dedos                            | Elemento que permiten un agarre preciso y controlado de las piezas. | 2  |
 
 
 
