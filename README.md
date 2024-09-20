@@ -118,7 +118,7 @@ En esta sección, se describe la electrónica utilizada en el proyecto. Se utili
   - 💻 Controla todos los componentes del circuito y gestiona la lógica del proyecto.
 
 - **Servomotores:**
-  - ** ⚙️ 5 Servos MG996R:** Utilizados en las articulaciones Qn; 2 de ellos están en la articulación Q2 para mayor control.
+  -  ⚙️ **5 Servos MG996R:** Utilizados en las articulaciones Qn; 2 de ellos están en la articulación Q2 para mayor control.
   - ** ⚙️ 1 Servo SG90:** Utilizado para el gripper, permitiendo abrir y cerrar.
 
 - **Resistencias:**
