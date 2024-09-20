@@ -110,12 +110,6 @@ En esta sección, se describe la electrónica utilizada en el proyecto. Se utili
 
 # Diagrama del Circuito Electronico
 
-
-<h2 align="center">Pruebas de Precision</h2>
-<p align="center">
-  <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/raw/main/brazo%20robot.gif" alt="Demostración" width="300"/>
-</p>
-
 # Componentes Utilizados
 
 - **Microcontrolador:** [Modelo y breve descripción]
@@ -125,6 +119,12 @@ En esta sección, se describe la electrónica utilizada en el proyecto. Se utili
 - **Actuadores:** 
   - [Actuador 1: descripción]
   - [Actuador 2: descripción]
+
+<h2 align="center">Pruebas de Precision</h2>
+<p align="center">
+  <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/raw/main/brazo%20robot.gif" alt="Demostración" width="300"/>
+</p>
+
 
 # Reconocimientos
 
