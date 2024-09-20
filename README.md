@@ -24,7 +24,7 @@ El presente proyecto denominado **"MecaChess Robotic Arm"** tiene como finalidad
 
 | Software                  | Descripción                                                                                        |
 |--------------------------|-----------------------------------------------------------------------------------------------------|
-| SolidWorks 2021          |  Se empleó SolidWorks 2023 para el diseño del conjunto elemental, la modelación de diversos componentes y la utilización de su biblioteca de herramientas para tornillos, tuercas y otros elementos de fijación. |
+| SolidWorks 2023          |  Se empleó SolidWorks 2023 para el diseño del conjunto elemental, la modelación de diversos componentes y la utilización de su biblioteca de herramientas para tornillos, tuercas y otros elementos de fijación. |
 | Proteus 8 Professional    | Se usó Proteus 8 Professional para el diseño del esquema electrónico y su correspondiente simulacion |
 | Python                  | Se utilizó Python para el desarrollo de la lógica del juego, incluyendo la detección de piezas, el manejo del tablero y el mapeo de las jugadas.   |
 | Arduino IDE              |  Se utilizó Arduino IDE para programar la lógica de las cinemáticas y las funciones necesarias para controlar los movimientos del brazo robótico. |
@@ -43,7 +43,7 @@ El presente proyecto denominado **"MecaChess Robotic Arm"** tiene como finalidad
 | Serial                   | Biblioteca que permite la comunicación serie con dispositivos externos, útil para interactuar con hardware. |
 | Time                     | Módulo que proporciona funciones para medir y controlar el tiempo, utilizado para la sincronización de eventos. |
 | Copy                     | Módulo que permite la creación de copias superficiales y profundas de objetos en Python. |
-
+| PyQt                     | Se utilizó la biblioteca PyQt para desarrollar la interfaz gráfica de las cinemáticas, facilitando la interacción del usuario con el sistema. |
 
 
 <h1 align="center">Diseño Mecanico y Cinematicas</h1> 
