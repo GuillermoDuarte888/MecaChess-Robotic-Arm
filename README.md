@@ -106,6 +106,13 @@ En esta sección se presenta el diseño mecánico del robot ajedrecista, desglos
 
 ...
 
+# Tablero de Ajedrez ♘
+
+El tablero de ajedrez tiene un tamaño de 18 x 18 cm y fue realizado de manera manual, pintado sobre madera reciclada. Se optó por el diseño clásico en blanco y negro, ya que este contraste permite una mejor detección de las piezas durante el juego. Además, en cada esquina del tablero se pintó un círculo de color amarillo, lo cual permite la deteccion del tablero. Este enfoque no solo resalta las piezas, sino que también proporciona una estética tradicional que es apreciada por los jugadores. La elección de materiales reciclados refleja un compromiso con la sostenibilidad y la creatividad en el diseño.
+
+
+
+
 <h1 align="center">💡 Diseño Electronico del Proyecto 💡</h1> 
 
 
