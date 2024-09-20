@@ -48,7 +48,7 @@ El presente proyecto denominado **"MecaChess Robotic Arm"** tiene como finalidad
 | PyQt                     | Se utilizó la biblioteca PyQt para desarrollar la interfaz gráfica de las cinemáticas, facilitando la interacción del usuario con el sistema. |
 
 
-<h1 align="center">Diseño Mecanico y Cinematicas</h1> 
+<h1 align="center">⚙️ Diseño Mecanico y Cinematicas ⚙️</h1> 
 
 # Cinematica Directa
 
@@ -95,7 +95,7 @@ En esta sección se presenta el diseño mecánico del robot ajedrecista, desglos
 | 10     | Dedos                            | Elemento que permiten un agarre preciso y controlado de las piezas. | 2  |
 
 
-# Representación del Brazo Robótico en SolidWorks
+# 🔧 Representación del Brazo Robótico en SolidWorks 🔧
 <p align="center">
   <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/raw/main/Brazo%20Robot%20dise%C3%B1o%20completo.png" alt="Brazo Robótico" width="500"/>
 </p>
@@ -115,24 +115,24 @@ En esta sección, se describe la electrónica utilizada en el proyecto. Se utili
 ## Componentes del Circuito Electrónico
 
 - **Microcontrolador:** Arduino Mega
-  - Controla todos los componentes del circuito y gestiona la lógica del proyecto.
+  - 💻 Controla todos los componentes del circuito y gestiona la lógica del proyecto.
 
 - **Servomotores:**
-  - **5 Servos MG996R:** Utilizados en las articulaciones Qn; 2 de ellos están en la articulación Q2 para mayor control.
-  - **1 Servo SG90:** Utilizado para el gripper, permitiendo abrir y cerrar.
+  - ** ⚙️ 5 Servos MG996R:** Utilizados en las articulaciones Qn; 2 de ellos están en la articulación Q2 para mayor control.
+  - ** ⚙️ 1 Servo SG90:** Utilizado para el gripper, permitiendo abrir y cerrar.
 
 - **Resistencias:**
-  - **6 Resistencias de 10 kΩ:** Utilizadas para limitar la corriente en el circuito y proteger los componentes.
+  - ** ⚡ 6 Resistencias de 10 kΩ:** Utilizadas para limitar la corriente en el circuito y proteger los componentes.
 
 - **LEDs:**
-  - **4 LEDs Rojos:** Indicadores de estado o señales visuales.
-  - **1 LED Verde:** Indicador de funcionamiento.
+  - ** 🔴 4 LEDs Rojos:** Indicadores de estado o señales visuales.
+  - ** 🟢 1 LED Verde:** Indicador de funcionamiento.
 
 - **Pulsador:**
-  - **1 Pulsador de 4 patas:** Permite la interacción del usuario y el control manual del circuito.
+  - ** ⚪ 1 Pulsador de 4 patas:** Permite la interacción del usuario y el control manual del circuito.
 
 - **Fuente de Laboratorio:**
-  - **Fuente regulable de 5.5 V CC:** Proporciona la alimentación necesaria para el circuito.
+  - ** 🔋 Fuente regulable de 5.5 V CC:** Proporciona la alimentación necesaria para el circuito.
 
 
 <h2 align="center">Pruebas de Precision</h2>
