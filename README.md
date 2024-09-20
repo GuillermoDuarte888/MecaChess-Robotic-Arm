@@ -9,7 +9,8 @@
   <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/raw/main/brazo%20robot%20.jpg" alt="Brazo Robótico" width="400"/>
 </p>
 
-## Integrantes del Proyecto:
+## Integrantes del Proyecto
+</div>
 <p>👤 Guillermo Daniel Duarte</p>
 <p>👤 Gaston Alejandro Díaz</p>
 </div>
@@ -113,5 +114,5 @@ Quisiera expresar mi más sincero agradecimiento a varias personas y organizacio
 
 **A mis profesores y familiares**: Quiero expresar mi agradecimiento a todos mis profesores y a mi familia por su apoyo incondicional a lo largo de este proceso. Su aliento y orientación han sido fundamentales en mi formación y crecimiento personal.
 
-A todos los lectores: Espero que este proyecto les resulte interesante y útil.
+**A todos los lectores**: Espero que este proyecto les resulte interesante y útil.
 
