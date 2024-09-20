@@ -110,15 +110,30 @@ En esta sección, se describe la electrónica utilizada en el proyecto. Se utili
 
 # Diagrama del Circuito Electronico
 
-# Componentes Utilizados
 
-- **Microcontrolador:** [Modelo y breve descripción]
-- **Sensores:** 
-  - [Sensor 1: descripción]
-  - [Sensor 2: descripción]
-- **Actuadores:** 
-  - [Actuador 1: descripción]
-  - [Actuador 2: descripción]
+
+## Componentes del Circuito Electrónico
+
+- **Microcontrolador:** Arduino Mega
+  - Controla todos los componentes del circuito y gestiona la lógica del proyecto.
+
+- **Servomotores:**
+  - **5 Servos MG996R:** Utilizados en las articulaciones Qn; 2 de ellos están en la articulación Q2 para mayor control.
+  - **1 Servo SG90:** Utilizado para el gripper, permitiendo abrir y cerrar.
+
+- **Resistencias:**
+  - **6 Resistencias de 10 kΩ:** Utilizadas para limitar la corriente en el circuito y proteger los componentes.
+
+- **LEDs:**
+  - **4 LEDs Rojos:** Indicadores de estado o señales visuales.
+  - **1 LED Verde:** Indicador de funcionamiento.
+
+- **Pulsador:**
+  - **1 Pulsador de 4 patas:** Permite la interacción del usuario y el control manual del circuito.
+
+- **Fuente de Laboratorio:**
+  - **Fuente regulable de 5.5 V CC:** Proporciona la alimentación necesaria para el circuito.
+
 
 <h2 align="center">Pruebas de Precision</h2>
 <p align="center">
