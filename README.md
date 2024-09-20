@@ -1,9 +1,9 @@
 
 <p align="center">
-  <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/raw/main/Logo%20de%20la%20Facultad%20de%20Ingenieria.png" alt="Brazo Robótico" width="1000"/>
+  <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/raw/main/Logo%20de%20la%20Facultad%20de%20Ingenieria.png" alt="Brazo Robótico" width="800"/>
 </p>
 
-<h1 align="center">♟️ MecaChess Robotic Arm ♟️</h1>
+<h1 align="center" style="font-size: 3em;">♟️ MecaChess Robotic Arm ♟️</h1>
 
 <p align="center">
   <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/raw/main/brazo%20robot%20.jpg" alt="Brazo Robótico" width="400"/>
