@@ -71,7 +71,7 @@ En el contexto del robot ajedrecista, la cinemática inversa se utiliza para det
   <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/raw/main/Cinematica%20Directa%20e%20Inversa.png" alt="Brazo Robótico" width="1100"/>
 </p>
 
-# Diseño Mecanico
+# Diseño Mecanico del Brazo Robot
 
 En esta sección se presenta el diseño mecánico del robot ajedrecista, desglosando sus diferentes componentes. Cada parte del robot está identificada con un número en la imagen, lo que facilitará su explicación. A continuación, se incluye una tabla que detalla las funciones y características de cada pieza.
 
@@ -93,6 +93,7 @@ En esta sección se presenta el diseño mecánico del robot ajedrecista, desglos
 | 10     | Dedos                            | Elemento que permiten un agarre preciso y controlado de las piezas. | 2  |
 
 
+# Diseño de las Piezas y la Caja
 
 
 <h2 align="center">Pruebas de Precision</h2>
