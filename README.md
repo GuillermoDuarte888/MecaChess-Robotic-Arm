@@ -34,7 +34,7 @@ El presente proyecto denominado **"MecaChess Robotic Arm"** tiene como finalidad
 | Iriun Webcam | Se implementó Iriun Webcam para establecer una conexión entre el teléfono móvil, utilizado como cámara, y el entorno de programación Python, facilitando así su control y gestión de manera eficiente. |
 | Wokwi                    | Wokwi es una herramienta en línea utilizada para diseñar y simular circuitos electrónicos. Permite crear diagramas interactivos, facilitando la visualización del circuito y la prueba del código antes de implementarlo en el hardware. |
 
-# Bibliotecas de Phyton Utilizadas
+# Bibliotecas de Phyton Utilizadas 📚
 
 | Biblioteca               | Descripción                                                                                         |
 |--------------------------|-----------------------------------------------------------------------------------------------------|
@@ -96,20 +96,20 @@ En esta sección se presenta el diseño mecánico del robot ajedrecista, desglos
 | 10     | Dedos                            | Elemento que permiten un agarre preciso y controlado de las piezas. | 2  |
 
 
-# 🔧 Representación del Brazo Robótico en SolidWorks 🔧
+# Representación del Brazo Robótico en SolidWorks 🔧
 <p align="center">
   <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/raw/main/Brazo%20Robot%20dise%C3%B1o%20completo.png" alt="Brazo Robótico" width="500"/>
 </p>
 
 
-# Diseño de las Piezas y la Caja
+# Diseño de las Piezas y la Caja 📦
 
 <h1 align="center">Diseño Electronico del Proyecto</h1> 
 
 
 En esta sección, se describe la electrónica utilizada en el proyecto. Se utilizó Wokwi para presentar el esquema en un formato más legible y comprensible para cualquiera. Wokwi es una herramienta en línea que permite simular circuitos electrónicos, lo que facilita la visualización y comprensión del diseño.
 
-# Diagrama del Circuito Electronico
+# Diagrama del Circuito Electronico 🔌
 
 <p align="center">
   <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/raw/main/Circuito%20en%20wokwi.png" alt="Brazo Robótico" width="800"/>
@@ -144,7 +144,7 @@ En esta sección, se describe la electrónica utilizada en el proyecto. Se utili
 </p>
 
 
-# Reconocimientos
+# Reconocimientos 📝
 
 Quisiera expresar mi más sincero agradecimiento a varias personas y organizaciones que hicieron posible este proyecto:
 
