@@ -20,7 +20,7 @@
 
 El presente proyecto denominado **"MecaChess Robotic Arm"** tiene como finalidad la creación de un brazo robótico antropomórfico de 4 grados de libertad, diseñado para jugar al ajedrez de manera autónoma. Además, se le incorporaron funciones adicionales que permiten acomodar las piezas al inicio de una partida, jugar a través de la aplicación Chess.com, moverse por comandos de voz e identificar jugadas ilegales, entre otras. Para hacerlo más accesible, se emplearon materiales económicos y reciclados, logrando un balance óptimo entre costo y precisión sin comprometer la funcionalidad del brazo. Por último, se continúa trabajando en la incorporación de nuevas funcionalidades, como la implementación de inteligencia artificial y mejoras en el diseño, entre otros aspectos.
 
-<h1 align="center">Recursos y Tecnologias Integradas</h1> 
+<h1 align="center">💻 Recursos y Tecnologias Integradas 💻</h1> 
 
 # Software Empleados
 
@@ -118,21 +118,21 @@ En esta sección, se describe la electrónica utilizada en el proyecto. Se utili
   - 💻 Controla todos los componentes del circuito y gestiona la lógica del proyecto.
 
 - **Servomotores:**
-  -  ⚙️ **5 Servos MG996R:** Utilizados en las articulaciones Qn; 2 de ellos están en la articulación Q2 para mayor control.
-  - ** ⚙️ 1 Servo SG90:** Utilizado para el gripper, permitiendo abrir y cerrar.
+  - ⚙️ **5 Servos MG996R:** Utilizados en las articulaciones Qn; 2 de ellos están en la articulación Q2 para mayor control.
+  - ⚙️ **1 Servo SG90:** Utilizado para el gripper, permitiendo abrir y cerrar.
 
 - **Resistencias:**
-  - ** ⚡ 6 Resistencias de 10 kΩ:** Utilizadas para limitar la corriente en el circuito y proteger los componentes.
+  - ⚡ **6 Resistencias de 10 kΩ:** Utilizadas para limitar la corriente en el circuito y proteger los componentes.
 
 - **LEDs:**
-  - ** 🔴 4 LEDs Rojos:** Indicadores de estado o señales visuales.
-  - ** 🟢 1 LED Verde:** Indicador de funcionamiento.
+  - 🔴 **4 LEDs Rojos:** Indicadores de estado o señales visuales.
+  - 🟢 **1 LED Verde:** Indicador de funcionamiento.
 
 - **Pulsador:**
-  - ** ⚪ 1 Pulsador de 4 patas:** Permite la interacción del usuario y el control manual del circuito.
+  - ⚪ **1 Pulsador de 4 patas:** Permite la interacción del usuario y el control manual del circuito.
 
 - **Fuente de Laboratorio:**
-  - ** 🔋 Fuente regulable de 5.5 V CC:** Proporciona la alimentación necesaria para el circuito.
+  - 🔋 **Fuente regulable de 5.5 V CC:** Proporciona la alimentación necesaria para el circuito.
 
 
 <h2 align="center">Pruebas de Precision</h2>
