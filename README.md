@@ -104,7 +104,9 @@ En esta sección se presenta el diseño mecánico del robot ajedrecista, desglos
 
 # Diseño de las Piezas y la Caja 📦
 
-<h1 align="center">Diseño Electronico del Proyecto</h1> 
+...
+
+<h1 align="center">💡 Diseño Electronico del Proyecto 💡</h1> 
 
 
 En esta sección, se describe la electrónica utilizada en el proyecto. Se utilizó Wokwi para presentar el esquema en un formato más legible y comprensible para cualquiera. Wokwi es una herramienta en línea que permite simular circuitos electrónicos, lo que facilita la visualización y comprensión del diseño.
