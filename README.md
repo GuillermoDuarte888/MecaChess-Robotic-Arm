@@ -20,7 +20,7 @@ El presente proyecto denominado **"MecaChess Robotic Arm"** tiene como finalidad
 
 <h1 align="center">Recursos y Tecnologias Integradas</h1> 
 
-# Software Empleado
+# Software Empleados
 
 | Software                  | Descripción                                                                                        |
 |--------------------------|-----------------------------------------------------------------------------------------------------|
