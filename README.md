@@ -16,13 +16,13 @@
 <p>👤 Gaston Alejandro Díaz</p>
 </section>
 
-# Introduccion
+# Introduccion ♔
 
 El presente proyecto denominado **"MecaChess Robotic Arm"** tiene como finalidad la creación de un brazo robótico antropomórfico de 4 grados de libertad, diseñado para jugar al ajedrez de manera autónoma. Además, se le incorporaron funciones adicionales que permiten acomodar las piezas al inicio de una partida, jugar a través de la aplicación Chess.com, moverse por comandos de voz e identificar jugadas ilegales, entre otras. Para hacerlo más accesible, se emplearon materiales económicos y reciclados, logrando un balance óptimo entre costo y precisión sin comprometer la funcionalidad del brazo. Por último, se continúa trabajando en la incorporación de nuevas funcionalidades, como la implementación de inteligencia artificial y mejoras en el diseño, entre otros aspectos.
 
 <h1 align="center">💻 Recursos y Tecnologias Integradas 💻</h1> 
 
-# Software Empleados
+# Software Empleados ♕
 
 | Software                  | Descripción                                                                                        |
 |--------------------------|-----------------------------------------------------------------------------------------------------|
@@ -51,7 +51,7 @@ El presente proyecto denominado **"MecaChess Robotic Arm"** tiene como finalidad
 
 <h1 align="center">⚙️ Diseño Mecanico y Cinematicas ⚙️</h1> 
 
-# Cinematica Directa
+# Cinematica Directa ♖
 
 La cinemática directa permite calcular la posición y orientación del efector final del robot ajedrecista a partir de los valores de las articulaciones. Para ello, se utilizan transformaciones homogéneas aplicadas de manera sistemática, empleando el método de Denavit-Hartenberg. Este enfoque proporciona un marco estándar para representar las configuraciones articulares y facilita la obtención de las coordenadas del efector final en el espacio tridimensional. Comprender este proceso es fundamental para analizar el movimiento del robot en el tablero de ajedrez y es esencial para el diseño de algoritmos de control de trayectorias que optimicen su desempeño en el juego.
 
@@ -66,7 +66,7 @@ El siguiente programa, desarrollado en Python, permite simular diversas configur
 </p>
 
 
-# Cinematica Inversa
+# Cinematica Inversa ♗
 
 En el contexto del robot ajedrecista, la cinemática inversa se utiliza para determinar los ángulos de las articulaciones necesarios para alcanzar una posición y orientación específicas, como posicionar el efector final en una casilla del tablero. Se implementan tanto el método geométrico como el analítico para verificar los resultados, considerando diferentes configuraciones, como codo arriba y codo abajo. Esta capacidad de ajuste es fundamental para garantizar un movimiento preciso y efectivo del robot al realizar sus jugadas. A modo de corroboración, se puede observar que la posición y orientación proporcionadas por la cinemática directa, al ser ingresadas en la cinemática inversa, generan los mismos ángulos de las articulaciones utilizados en la cinemática directa. Esto valida la precisión de ambos métodos y asegura que el robot puede reproducir efectivamente las posiciones deseadas en el tablero.
 
@@ -74,7 +74,7 @@ En el contexto del robot ajedrecista, la cinemática inversa se utiliza para det
   <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/raw/main/Cinematica%20Directa%20e%20Inversa.png" alt="Brazo Robótico" width="1100"/>
 </p>
 
-# Diseño Mecanico del Brazo Robot
+# Diseño Mecanico del Brazo Robot 🔧
 
 En esta sección se presenta el diseño mecánico del robot ajedrecista, desglosando sus diferentes componentes. Cada parte del robot está identificada con un número en la imagen, lo que facilitará su explicación. A continuación, se incluye una tabla que detalla las funciones y características de cada pieza.
 
