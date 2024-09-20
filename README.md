@@ -32,6 +32,7 @@ El presente proyecto denominado **"MecaChess Robotic Arm"** tiene como finalidad
 | Arduino IDE              |  Se utilizó Arduino IDE para programar la lógica de las cinemáticas y las funciones necesarias para controlar los movimientos del brazo robótico. |
 |  Stockfish                | Se utilizó Stockfish como motor de ajedrez para la evaluación de posiciones y la generación de movimientos óptimos durante las partidas.         |
 | Iriun Webcam | Se implementó Iriun Webcam para establecer una conexión entre el teléfono móvil, utilizado como cámara, y el entorno de programación Python, facilitando así su control y gestión de manera eficiente. |
+| Wokwi                    | Wokwi es una herramienta en línea utilizada para diseñar y simular circuitos electrónicos. Permite crear diagramas interactivos, facilitando la visualización del circuito y la prueba del código antes de implementarlo en el hardware. |
 
 # Bibliotecas de Phyton Utilizadas
 
@@ -110,7 +111,9 @@ En esta sección, se describe la electrónica utilizada en el proyecto. Se utili
 
 # Diagrama del Circuito Electronico
 
-
+<p align="center">
+  <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/raw/main/Circuito%20en%20wokwi.png" alt="Brazo Robótico" width="800"/>
+</p>
 
 ## Componentes del Circuito Electrónico
 
