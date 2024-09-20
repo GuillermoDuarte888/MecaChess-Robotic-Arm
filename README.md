@@ -103,12 +103,28 @@ En esta sección se presenta el diseño mecánico del robot ajedrecista, desglos
 
 # Diseño de las Piezas y la Caja
 
+<h1 align="center">Diseño Electronico del Proyecto</h1> 
+
+
+En esta sección, se describe la electrónica utilizada en el proyecto. Se utilizó Wokwi para presentar el esquema en un formato más legible y comprensible para cualquiera. Wokwi es una herramienta en línea que permite simular circuitos electrónicos, lo que facilita la visualización y comprensión del diseño.
+
+# Diagrama del Circuito Electronico
+
 
 <h2 align="center">Pruebas de Precision</h2>
 <p align="center">
   <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/raw/main/brazo%20robot.gif" alt="Demostración" width="300"/>
 </p>
 
+# Componentes Utilizados
+
+- **Microcontrolador:** [Modelo y breve descripción]
+- **Sensores:** 
+  - [Sensor 1: descripción]
+  - [Sensor 2: descripción]
+- **Actuadores:** 
+  - [Actuador 1: descripción]
+  - [Actuador 2: descripción]
 
 # Reconocimientos
 
