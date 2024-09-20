@@ -9,11 +9,11 @@
   <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/raw/main/brazo%20robot%20.jpg" alt="Brazo Robótico" width="400"/>
 </p>
 
-## Integrantes del Proyecto
-</div>
-<p>👤 Guillermo Daniel Duarte</p>
-<p>👤 Gaston Alejandro Díaz</p>
-</div>
+<h2 align="center">Integrantes del Proyecto</h2>
+<section style="text-align: center; font-size: 1.5em; margin-top: 10px;">
+    <p>👤 Guillermo Daniel Duarte</p>
+    <p>👤 Gaston Alejandro Díaz</p>
+</section>
 
 # Introduccion
 
