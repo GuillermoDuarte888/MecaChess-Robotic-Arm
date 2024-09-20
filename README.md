@@ -104,7 +104,11 @@ En esta sección se presenta el diseño mecánico del robot ajedrecista, desglos
 
 # Diseño de las Piezas y la Caja 📦
 
-...
+Las piezas del juego de ajedrez y la caja fueron diseñadas y rediseñadas varias veces hasta alcanzar las formas óptimas. Este proceso de iteración permitió que las piezas se adaptaran no solo de manera más efectiva al tablero, sino también al gripper del robot, garantizando un agarre seguro y funcional.
+
+La caja fue diseñada en SolidWorks, lo que facilitó la creación de un diseño preciso y ajustado a las dimensiones necesarias. Para aumentar la estabilidad de las piezas, se incorporó una tuerca en la parte inferior de cada una. Este agregado no solo proporciona un mayor peso, sino que también ayuda a bajar el centro de gravedad, lo que a su vez mejora la estabilidad de las piezas durante el juego.
+
+Este enfoque en el diseño y la estabilidad refleja un compromiso con la funcionalidad y la estética del proyecto, asegurando que cada componente trabaje en armonía.
 
 # Tablero de Ajedrez ♘
 
@@ -154,7 +158,7 @@ El circuito se llevó a cabo en una plaqueta de cobre perforada, debido a que el
 
 En esta sección, se explicará cómo compilar el código fuente del proyecto y cargar los valores necesarios en Python. Se abordarán los pasos para utilizar el entorno de desarrollo adecuado, asegurando que el código se ejecute correctamente. Además, se incluirán detalles sobre la configuración de parámetros y la verificación de conexiones antes de iniciar el proceso de carga.
 
-<h2 align="center">Pruebas de Precision</h2>
+<h2 align="center">Proyecto en Funcionamiento</h2>
 <p align="center">
   <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/raw/main/brazo%20robot.gif" alt="Demostración" width="300"/>
 </p>
