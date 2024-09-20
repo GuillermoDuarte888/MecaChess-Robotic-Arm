@@ -115,7 +115,7 @@ En esta sección, se describe la electrónica utilizada en el proyecto. Se utili
   <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/raw/main/Circuito%20en%20wokwi.png" alt="Brazo Robótico" width="800"/>
 </p>
 
-## Componentes del Circuito Electrónico
+# Componentes del Circuito Electrónico 🧩
 
 - **Microcontrolador:** Arduino Mega
   - 💻 Controla todos los componentes del circuito y gestiona la lógica del proyecto.
