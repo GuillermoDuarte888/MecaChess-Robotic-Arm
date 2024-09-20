@@ -121,18 +121,18 @@ En esta sección, se describe la electrónica utilizada en el proyecto. Se utili
   - 💻 Controla todos los componentes del circuito y gestiona la lógica del proyecto.
 
 - **Servomotores:**
-  - ⚙️ **5 Servos MG996R:** Utilizados en las articulaciones Qn; 2 de ellos están en la articulación Q2 para mayor control.
-  - ⚙️ **1 Servo SG90:** Utilizado para el gripper, permitiendo abrir y cerrar.
+  - ⚙️ **5 Servos MG996R:** Utilizados en las articulaciones Qn; las salidas de los pines son 7, 8, 9, 10 y 11.
+  - ⚙️ **1 Servo SG90:** Utilizado para el gripper, permitiendo abrir y cerrar, salida en pin 13.
 
 - **Resistencias:**
   - ⚡ **6 Resistencias de 10 kΩ:** Utilizadas para limitar la corriente en el circuito y proteger los componentes.
 
 - **LEDs:**
-  - 🔴 **4 LEDs Rojos:** Indicadores de estado o señales visuales.
-  - 🟢 **1 LED Verde:** Indicador de funcionamiento.
+  - 🔴 **4 LEDs Rojos:** Indicadores de estado o señales visuales, las salidas de los pines son 22, 26, 30, y 34.
+  - 🟢 **1 LED Verde:** Indicador de funcionamiento, salida en el pin 3.
 
 - **Pulsador:**
-  - ⚪ **1 Pulsador de 4 patas:** Permite la interacción del usuario y el control manual del circuito.
+  - ⚪ **1 Pulsador de 4 patas:** Permite la interacción del usuario y el control manual del circuito, salida en el pin 2.
 
 - **Fuente de Laboratorio:**
   - 🔋 **Fuente regulable de 5.5 V CC:** Proporciona la alimentación necesaria para el circuito.
