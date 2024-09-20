@@ -110,7 +110,9 @@ En esta sección se presenta el diseño mecánico del robot ajedrecista, desglos
 
 El tablero de ajedrez tiene un tamaño de 18 x 18 cm y fue realizado de manera manual, pintado sobre madera reciclada. Se optó por el diseño clásico en blanco y negro, ya que este contraste permite una mejor detección de las piezas durante el juego. Además, en cada esquina del tablero se pintó un círculo de color amarillo, lo cual permite la deteccion del tablero. Este enfoque no solo resalta las piezas, sino que también proporciona una estética tradicional que es apreciada por los jugadores. La elección de materiales reciclados refleja un compromiso con la sostenibilidad y la creatividad en el diseño.
 
+# Materiales Reciclados Utilizados 🔄 
 
+En este proyecto se hizo un esfuerzo consciente por utilizar materiales reciclados, contribuyendo así a la sostenibilidad y reducción de residuos. Este enfoque no solo permite ahorrar recursos, sino que también demuestra que no es necesario gastar mucho dinero cuando el ingenio y la creatividad predominan. Utilizar materiales reciclados no solo es una opción sostenible, sino que también abre la puerta a innovaciones únicas en el diseño y la construcción del proyecto.
 
 
 <h1 align="center">💡 Diseño Electronico del Proyecto 💡</h1> 
@@ -148,6 +150,10 @@ En esta sección, se describe la electrónica utilizada en el proyecto. Se utili
 
 El circuito se llevó a cabo en una plaqueta de cobre perforada, debido a que el diseño del circuito es bastante simple. Este tipo de plaqueta permite realizar conexiones de manera eficiente y rápida, sin la necesidad de recurrir a un diseño en software o a una placa de circuito impreso (PCB) más compleja. La simplicidad del conexionado facilita la construcción y modificación del circuito según se vaya actualizando.
 
+# Configuración y Ejecución del Código 🔑
+
+En esta sección, se explicará cómo compilar el código fuente del proyecto y cargar los valores necesarios en Python. Se abordarán los pasos para utilizar el entorno de desarrollo adecuado, asegurando que el código se ejecute correctamente. Además, se incluirán detalles sobre la configuración de parámetros y la verificación de conexiones antes de iniciar el proceso de carga.
+
 <h2 align="center">Pruebas de Precision</h2>
 <p align="center">
   <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/raw/main/brazo%20robot.gif" alt="Demostración" width="300"/>
@@ -158,7 +164,7 @@ El circuito se llevó a cabo en una plaqueta de cobre perforada, debido a que el
 
 Quisiera expresar mi más sincero agradecimiento a varias personas y organizaciones que hicieron posible este proyecto:
 
-**Gaston Alejandro Díaz**: Quiero expresar mi sincero agradecimiento a mi colega por su apoyo incondicional y valiosa colaboración a lo largo de toda la carrera. Nuestro crecimiento y evolución conjunta han sido esenciales para el éxito de este proyecto, y su dedicación ha sido una fuente constante de inspiración.
+**Gaston Alejandro Díaz**: Quiero expresar mi sincero agradecimiento a mi colega por su apoyo incondicional y valiosa colaboración a lo largo de toda la carrera. Nuestro crecimiento y evolución conjunta han sido esenciales para el éxito de este proyecto, y su dedicación ha sido una fuente constante de inspiración 🌟.
 
 
 **Profesor Ingeniero Cristian Leandro Lukasiewicz**: Estoy profundamente agradecido con el profesor Lukasiewicz por supervisar nuestra Práctica Profesional Supervisada (PPS) y por su valiosa orientación y apoyo durante todo el proceso en la carrera de Ingeniería Mecatrónica. Su compromiso y profesionalismo han sido una fuente de inspiración, estableciendo un ejemplo a seguir en el campo de la ingeniería y motivándome a alcanzar mis metas académicas y profesionales.
