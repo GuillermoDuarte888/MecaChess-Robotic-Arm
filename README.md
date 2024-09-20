@@ -94,7 +94,7 @@ En esta sección se presenta el diseño mecánico del robot ajedrecista, desglos
 
 
 <p align="center">
-  <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/raw/main/Brazo%20Robot%20dise%C3%B1o%20completo.png" alt="Brazo Robótico" width="1100"/>
+  <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/raw/main/Brazo%20Robot%20dise%C3%B1o%20completo.png" alt="Brazo Robótico" width="800"/>
 </p>
 
 
