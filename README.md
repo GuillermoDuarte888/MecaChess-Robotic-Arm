@@ -116,7 +116,17 @@ El tablero de ajedrez tiene un tamaño de 18 x 18 cm y fue realizado de manera m
 
 # Materiales Reciclados Utilizados 🔄 
 
-En este proyecto se hizo un esfuerzo consciente por utilizar materiales reciclados, contribuyendo así a la sostenibilidad y reducción de residuos. Este enfoque no solo permite ahorrar recursos, sino que también demuestra que no es necesario gastar mucho dinero cuando el ingenio y la creatividad predominan. Utilizar materiales reciclados no solo es una opción sostenible, sino que también abre la puerta a innovaciones únicas en el diseño y la construcción del proyecto.
+En este proyecto se hizo un esfuerzo consciente por utilizar materiales reciclados, contribuyendo así a la sostenibilidad y reducción de residuos. Este enfoque no solo permite ahorrar recursos, sino que también demuestra que no es necesario gastar mucho dinero cuando el ingenio y la creatividad predominan. Utilizar materiales reciclados no solo es una opción sostenible, sino que también abre la puerta a innovaciones únicas en el diseño y la construcción del proyecto. A continuación, se describen los materiales empleados:
+
+- **Madera Reciclada:** Utilizada para construir el tablero de ajedrez asi como la base que sostiene todo el sistema, ofreciendo una estética única y rústica.
+
+- **Componentes Electrónicos Reciclados:** Se incorporaron componentes de proyectos anteriores, incluyendo cables y una placa perforada que pertenecía a otro proyecto entre otros.
+
+- **Trípode Reciclado:** El trípode que sostiene el celular fue hecho con varias partes de diferentes componentes, demostrando la versatilidad de los materiales reciclados.
+
+- **Caja para Almacenamiento:** La caja donde se almacena toda la parte electrónica también fue fabricada con materiales reciclados.
+
+- **Reutilización de Componentes:** Se reutilizaron más componentes de proyectos previos.
 
 
 <h1 align="center">💡 Diseño Electronico del Proyecto 💡</h1> 
