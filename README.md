@@ -175,6 +175,9 @@ En esta sección, se explicará cómo compilar el código fuente del proyecto y 
   <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/raw/main/brazo%20robot.gif" alt="Demostración" width="300"/>
 </p>
 
+<h1 align="center">♛ Futuras Propuestas y Mejoras ♛</h1> 
+
+...
 
 # Reconocimientos 📝
 
