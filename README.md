@@ -186,7 +186,9 @@ Quisiera expresar mi más sincero agradecimiento a varias personas y organizacio
 **Gaston Alejandro Díaz**: Quiero expresar mi sincero agradecimiento a mi colega por su apoyo incondicional y valiosa colaboración a lo largo de toda la carrera. Nuestro crecimiento y evolución conjunta han sido esenciales para el éxito de este proyecto, y su dedicación ha sido una fuente constante de inspiración 🌟.
 
 
-**Profesor Ingeniero Cristian Leandro Lukasiewicz**: Estoy profundamente agradecido con el profesor Lukasiewicz por supervisar nuestra Práctica Profesional Supervisada (PPS) y por su valiosa orientación y apoyo durante todo el proceso en la carrera de Ingeniería Mecatrónica. Su compromiso y profesionalismo han sido una fuente de inspiración, estableciendo un ejemplo a seguir en el campo de la ingeniería y motivándome a alcanzar mis metas académicas y profesionales.
+**Profesor Ingeniero Cristian Leandro Lukaszewicz**: Estoy profundamente agradecido con el profesor Lukasiewicz por supervisar nuestra Práctica Profesional Supervisada (PPS) y por su valiosa orientación y apoyo durante todo el proceso en la carrera de Ingeniería Mecatrónica. Su compromiso y profesionalismo han sido una fuente de inspiración, estableciendo un ejemplo a seguir en el campo de la ingeniería y motivándome a alcanzar mis metas académicas y profesionales.
+
+**Ezequiel Blanca y Juan Ignacio Szombach**: Un agradecimiento a ambos profesores quienes tambien formaron parte como supervisores del proyecto, aportando sus recomendaciones, conocimientos y orientandonos para su concrecion.
 
 **Universidad Nacional de Lomas de Zamora**, Facultad de Ingeniería: Agradezco sinceramente a la universidad por brindarme acceso a un entorno académico enriquecedor que ha facilitado mi desarrollo y me ha permitido adquirir valiosos conocimientos en mi formación como ingeniero.
 
