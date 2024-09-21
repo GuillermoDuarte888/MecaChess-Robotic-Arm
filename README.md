@@ -168,7 +168,7 @@ El circuito se llevó a cabo en una plaqueta de cobre perforada, debido a que el
 
 En esta sección, se explicará cómo compilar el código fuente del proyecto y cargar los valores necesarios en Python. Se abordarán los pasos para utilizar el entorno de desarrollo adecuado, asegurando que el código se ejecute correctamente. Además, se incluirán detalles sobre la configuración de parámetros y la verificación de conexiones antes de iniciar el proceso de carga.
 
-<h2 align="center">Proyecto en Funcionamiento</h2>
+<h1 align="center">Proyecto en Funcionamiento</h1>
 <p align="center">
   <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/raw/main/brazo%20robot.gif" alt="Demostración" width="300"/>
 </p>
