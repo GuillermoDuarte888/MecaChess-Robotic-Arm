@@ -126,6 +126,8 @@ En este proyecto se hizo un esfuerzo consciente por utilizar materiales reciclad
 
 - **Caja para Almacenamiento:** La caja donde se almacena toda la parte electrónica también fue fabricada con materiales reciclados.
 
+- **Estructura del Pulsador:** La propia estructura que almacena el pulsador fue hecha de partes de elementos reciclados tambien.
+
 - **Reutilización de Componentes:** Se reutilizaron más componentes de proyectos previos.
 
 
