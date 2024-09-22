@@ -24,7 +24,7 @@
 - [⚙️Diseño Mecanico y Cinematicas⚙️](#-diseño-mecanico-y-cinematicas-)
     - [Cinemática Directa♖](#cinematica-directa-)
     - [Cinemática Inversa♗](#cinematica-inversa-)
-    - [Diseño Mecánico del Brazo Robot🛠️](#diseño-mecanico-del-brazo-robot)
+    - [Diseño Mecánico del Brazo Robot🛠️](#diseño-mecanico-del-brazo-robot-)
     - [Representación del Brazo Robótico en SolidWorks🔧](#representación-del-brazo-robótico-en-solidworks-)
     - [Diseño de las Piezas y la Caja📦](#diseño-de-las-piezas-y-la-caja-)
     - [Tablero de Ajedrez♘](#tablero-de-ajedrez-)
