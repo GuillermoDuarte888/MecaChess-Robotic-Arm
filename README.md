@@ -18,7 +18,7 @@
 
 ## Índice
 - [Introducción](#introducción)
- - [Recursos y Tecnologías Integradas](#-recursos-y-tecnologias-integradas)
+ - [Recursos y Tecnologías Integradas](#-recursos-y-tecnologias-integradas-)
     - [Software Empleados](#software-empleados-)
     - [Bibliotecas de Phyton Utilizadas](#bibliotecas-de-phyton-utilizadas-)
 - [Diseño Mecanico y Cinematicas](#-Diseño-Mecanico-y-Cinematicas-)
