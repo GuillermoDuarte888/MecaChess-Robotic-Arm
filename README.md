@@ -191,20 +191,18 @@ En esta sección, se explicará cómo compilar el código fuente del proyecto y 
 
 ### Paso 2: Ejecución de la celda de calibración de extracción de color
 
-1. Dirígete al código de Python y ejecuta la primera celda titulada **Color Extraction Calibration**.
+1. Dirígete al código de Python y ejecuta la primera celda titulada **🔷Color Extraction Calibration🔷**.
 2. Se abrirá la cámara. Coloca la cámara de modo que capte el tablero y las piezas.
-3. Haz clic en el color **amarillo** en las esquinas del tablero y presiona **"v"** para confirmar.
+3. Haz clic en el color **amarillo** en las esquinas del tablero, se abrira otra ventana donde mostrara solo las zonas detectadas, desliza ambas ventanas a su comodidad y presiona **"v"** para confirmar la seleccion del color.
 4. Repite el proceso para los colores **azul** y **verde** en ese orden.
 5. Después de definir los tres colores, presiona **"Esc"** para cerrar la ventana. Esta se abrirá nuevamente.
 6. Selecciona el color **verde**; notarás que ahora detecta tanto las piezas verdes como las azules. Presiona **"v"** para confirmar y luego **"Esc"**.
 7. Los valores se mostrarán debajo del código en el orden mencionado.
+8. Aclaracion: Ajusta los colores tantas veces como haga falta dando clic en cada uno de ellos, teniendo en cuenta que solo tomara los valores al presionar "v"
 
 ### Paso 3: Cargar los valores en la celda de funciones
 
-1. Dirígete a la celda titulada **CODIGOS DE LAS FUNCIONES UTILIZADAS**.
-```
-<span style="color:orange; font-size:32px; font-family:'Times New Roman'">**CODIGOS DE LAS FUNCIONES UTILIZADAS**</span>
-```
+1. Dirígete a la celda titulada **🔶CODIGOS DE LAS FUNCIONES UTILIZADAS🔶**.
 2. Carga los valores obtenidos de la calibración en el siguiente formato:
 
 ```python
