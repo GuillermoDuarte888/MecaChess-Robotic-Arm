@@ -38,7 +38,11 @@
     - [Cargar los valores en la celda de funciones](#cargar-los-valores-en-la-celda-de-funciones)
     - [Ejecutar la celda PUERTO SERIE](#ejecutar-la-celda-puerto-serie)
     - [Cargar el Código a la Placa Arduino](#cargar-el-código-a-la-placa-arduino)
-- [🎮 Inicio del Juego 🎮](-inicio-del-juego-)
+- [🎮 Inicio del Juego 🎮](#-inicio-del-juego-)
+    - [Consideraciones 📋](#consideraciones-)
+- [🤖 Proyecto en Funcionamiento 🤖](#-proyecto-en-funcionamiento-)
+- [♛ Futuras Propuestas y Mejoras ♛](#-futuras-propuestas-y-mejoras-)
+- [📝 Reconocimientos 📝](-reconocimientos-)
   
 # Introduccion🔗
 
@@ -308,7 +312,7 @@ Es fundamental que no se realice ninguna acción sobre el tablero a menos que se
 5. **Integración de LEDs RGB:** Incorporar LEDs RGB que se adapten al juego, proporcionando efectos visuales que reflejen el estado del juego y las acciones de los jugadores.
 
 
-# Reconocimientos 📝
+<h1 align="center">📝 Reconocimientos 📝</h1> 
 
 Quisiera expresar mi más sincero agradecimiento a varias personas y organizaciones que hicieron posible este proyecto:
 
