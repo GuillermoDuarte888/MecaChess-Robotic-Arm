@@ -175,6 +175,20 @@ El circuito se llevó a cabo en una plaqueta de cobre perforada, debido a que el
 
 En esta sección, se explicará cómo compilar el código fuente del proyecto y cargar los valores necesarios en Python. Se abordarán los pasos para utilizar el entorno de desarrollo adecuado, asegurando que el código se ejecute correctamente. Además, se incluirán detalles sobre la configuración de parámetros y la verificación de conexiones antes de iniciar el proceso de carga.
 
+
+### Paso 1: Conectar el celular a la computadora con Iriun Webcam
+
+1. **Instalación:**
+   - **Celular:** Descarga Iriun Webcam desde la [Play Store](https://play.google.com/store/apps/details?id=com.iriun.wifi.cam).
+   - **Computadora:** Descarga e instala Iriun desde [su sitio web](https://iriun.com).
+
+2. **Conexión:**
+   - **Wi-Fi:** Asegúrate de que ambos dispositivos estén en la misma red.
+   - **USB:** Conecta el celular por USB y habilita la "Depuración USB" en la configuración del celular.
+
+3. **Verificación:** Comprueba que el software en la computadora muestre la transmisión de video del celular.
+
+
 <h1 align="center">Proyecto en Funcionamiento</h1>
 <p align="center">
   <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/raw/main/Imagenes/brazo%20robot.gif" alt="Demostración" width="300"/>
