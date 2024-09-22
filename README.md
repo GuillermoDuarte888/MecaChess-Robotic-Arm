@@ -35,6 +35,9 @@
 - [📲 Configuración y Ejecución del Código 📲](#-configuración-y-ejecución-del-código-)
     - [Conectar el celular a la computadora con Iriun Webcam](#conectar-el-celular-a-la-computadora-con-iriun-webcam)
     - [Ejecución de la celda de calibración de extracción de color](#ejecución-de-la-celda-de-calibración-de-extracción-de-color)
+    - [Cargar los valores en la celda de funciones](#cargar-los-valores-en-la-celda-de-funciones)
+    - [Ejecutar la celda PUERTO SERIE](#ejecutar-la-celda-puerto-serie)
+    - [Cargar el Código a la Placa Arduino](#cargar-el-código-a-la-placa-arduino)
   
 # Introduccion🔗
 
@@ -220,7 +223,7 @@ En esta sección, se explicará cómo compilar el código fuente del proyecto y 
 7. Los valores se mostrarán debajo del código en el orden mencionado.
 8. Aclaracion: Ajusta los colores tantas veces como haga falta dando clic en cada uno de ellos, teniendo en cuenta que solo tomara los valores al presionar "v"
 
-# Paso 3: Cargar los valores en la celda de funciones
+# Cargar los valores en la celda de funciones
 
 1. Dirígete a la celda titulada **🔶CODIGOS DE LAS FUNCIONES UTILIZADAS🔶**.
 2. Carga los valores obtenidos de la calibración en el siguiente formato siguiendo el orden:
@@ -235,7 +238,7 @@ AV1, AV2, AV3, AV4, AV5, AV6 = [79, 90, 76, 180, 255, 255]    # Verde y Azul
 3. Asegúrate de cargar los valores en los vectores correspondientes dentro de los corchetes [].
 4. Una vez cargados, ejecuta la celda para continuar.
 
-# Paso 4: Ejecutar la celda "PUERTO SERIE"
+# Ejecutar la celda PUERTO SERIE
 
 1. Ejecuta la celda denominada **🌸PUERTO SERIE🌸**.
 2. Carga el puerto correspondiente al que está conectado el Arduino en el siguiente formato:
@@ -247,7 +250,7 @@ baud_rate = 9600       # Velocidad de comunicación con Arduino
 ```
 3. Para verificar el puerto, accede a la IDE de Arduino y dirígete a **Herramientas** > **Puerto**.
 
-# Paso 5: Cargar el Código a la Placa Arduino
+# Cargar el Código a la Placa Arduino
 
 1. Selecciona el puerto y la placa correspondientes en el IDE de Arduino.
 2. Compila el código para verificar que no haya errores.
