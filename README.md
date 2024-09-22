@@ -273,6 +273,17 @@ Es fundamental que no se realice ninguna acción sobre el tablero a menos que se
 <h1 align="center">♛ Futuras Propuestas y Mejoras ♛</h1> 
 
 
+1. **Interfaz de Usuario Mejorada:** Desarrollar una interfaz más intuitiva y visualmente atractiva que facilite la interacción del usuario durante el juego.
+
+2. **Registro de Estadísticas:** Implementar un sistema de registro que capture estadísticas del juego, como movimientos realizados y tiempo de juego, para análisis posterior.
+
+3. **Actualizaciones de Firmware:** Proporcionar actualizaciones periódicas del firmware del Arduino para mejorar el rendimiento y corregir errores.
+
+4. **Incorporación de IA:** Integrar inteligencia artificial para que el sistema pueda interactuar verbalmente con los jugadores, brindando comentarios y sugerencias durante el juego.
+
+5. **Integración de LEDs RGB:** Incorporar LEDs RGB que se adapten al juego, proporcionando efectos visuales que reflejen el estado del juego y las acciones de los jugadores.
+
+
 # Reconocimientos 📝
 
 Quisiera expresar mi más sincero agradecimiento a varias personas y organizaciones que hicieron posible este proyecto:
