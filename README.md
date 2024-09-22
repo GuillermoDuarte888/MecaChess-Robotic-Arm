@@ -171,12 +171,12 @@ En esta sección, se describe la electrónica utilizada en el proyecto. Se utili
 
 El circuito se llevó a cabo en una plaqueta de cobre perforada, debido a que el diseño del circuito es bastante simple. Este tipo de plaqueta permite realizar conexiones de manera eficiente y rápida, sin la necesidad de recurrir a un diseño en software o a una placa de circuito impreso (PCB) más compleja. La simplicidad del conexionado facilita la construcción y modificación del circuito según se vaya actualizando.
 
-# Configuración y Ejecución del Código 🔑
+<h1 align="center">🔑 Configuración y Ejecución del Código 🔑</h1> 
 
 En esta sección, se explicará cómo compilar el código fuente del proyecto y cargar los valores necesarios en Python. Se abordarán los pasos para utilizar el entorno de desarrollo adecuado, asegurando que el código se ejecute correctamente. Además, se incluirán detalles sobre la configuración de parámetros y la verificación de conexiones antes de iniciar el proceso de carga.
 
 
-### Paso 1: Conectar el celular a la computadora con Iriun Webcam
+# Paso 1: Conectar el celular a la computadora con Iriun Webcam
 
 1. **Instalación:**
    - **Celular:** Descarga Iriun Webcam desde la [Play Store](https://play.google.com/store/apps/details?id=com.iriun.wifi.cam).
@@ -189,7 +189,7 @@ En esta sección, se explicará cómo compilar el código fuente del proyecto y 
 3. **Verificación:** Comprueba que el software en la computadora muestre la transmisión de video del celular.
 
 
-### Paso 2: Ejecución de la celda de calibración de extracción de color
+# Paso 2: Ejecución de la celda de calibración de extracción de color
 
 1. Dirígete al código de Python y ejecuta la primera celda titulada **🔷Color Extraction Calibration🔷**.
 2. Se abrirá la cámara. Coloca la cámara de modo que capte el tablero y las piezas.
@@ -200,7 +200,7 @@ En esta sección, se explicará cómo compilar el código fuente del proyecto y 
 7. Los valores se mostrarán debajo del código en el orden mencionado.
 8. Aclaracion: Ajusta los colores tantas veces como haga falta dando clic en cada uno de ellos, teniendo en cuenta que solo tomara los valores al presionar "v"
 
-### Paso 3: Cargar los valores en la celda de funciones
+# Paso 3: Cargar los valores en la celda de funciones
 
 1. Dirígete a la celda titulada **🔶CODIGOS DE LAS FUNCIONES UTILIZADAS🔶**.
 2. Carga los valores obtenidos de la calibración en el siguiente formato siguiendo el orden:
@@ -215,7 +215,7 @@ AV1, AV2, AV3, AV4, AV5, AV6 = [79, 90, 76, 180, 255, 255]    # Verde y Azul
 3. Asegúrate de cargar los valores en los vectores correspondientes dentro de los corchetes [].
 4. Una vez cargados, ejecuta la celda para continuar.
 
-### Paso 4: Ejecutar la celda "PUERTO SERIE"
+# Paso 4: Ejecutar la celda "PUERTO SERIE"
 
 1. Ejecuta la celda denominada **🌸PUERTO SERIE🌸**.
 2. Carga el puerto correspondiente al que está conectado el Arduino en el siguiente formato:
@@ -227,8 +227,7 @@ baud_rate = 9600       # Velocidad de comunicación con Arduino
 ```
 3. Para verificar el puerto, accede a la IDE de Arduino y dirígete a **Herramientas** > **Puerto**.
 
-# Inicio del Juego 🎮
-
+<h1 align="center">🎮 Inicio del Juego 🎮</h1> 
 ...
 
 <h1 align="center">Proyecto en Funcionamiento</h1>
