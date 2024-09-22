@@ -32,7 +32,7 @@
 - [💡 Diseño Electronico del Proyecto 💡](#-diseño-electronico-del-proyecto-)
     - [Diagrama del Circuito Electronico 🔌](#diagrama-del-circuito-electronico-)
     - [Componentes del Circuito Electrónico 🧩](#Componentes-del-circuito-electrónico-)
-- [🛰️ Configuración y Ejecución del Código 🛰️](#-configuracion-y-ejecucion-del-codigo-)
+- [💻 Configuración y Ejecución del Código 💻](#-configuracion-y-ejecucion-del-codigo-)
     - [Conectar el celular a la computadora con Iriun Webcam](#conectar-el-celular-a-la-computadora-con-iriun-webcam)
   
 # Introduccion🔗
