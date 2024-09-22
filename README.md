@@ -18,17 +18,17 @@
 
 ## Índice
 - [Introduccion](#introduccion)
- - [Recursos y Tecnologías Integradas](#-recursos-y-tecnologias-integradas-)
-    - [Software Empleados](#software-empleados-)
-    - [Bibliotecas de Phyton Utilizadas](#bibliotecas-de-phyton-utilizadas-)
+ - [💻Recursos y Tecnologías Integradas💻](#-recursos-y-tecnologias-integradas-)
+    - [Software Empleados♕](#software-empleados-)
+    - [Bibliotecas de Phyton Utilizadas📚](#bibliotecas-de-phyton-utilizadas-)
 - [⚙️Diseño Mecanico y Cinematicas⚙️](#diseño-mecanico-y-cinematicas)
-    - [Cinemática Directa](#-cinemática-directa)
-    - [Cinemática Inversa♗](#cinemática-inversa)
-    - [Diseño Mecánico del Brazo Robot🔧](#diseño-mecánico-del-brazo-robot)
-    - [Representación del Brazo Robótico en SolidWorks](#representación-del-brazo-robótico-en-solidworks-)
-    - [Diseño de las Piezas y la Caja](#diseño-de-las-piezas-y-la-caja-)
-    - [Tablero de Ajedrez](#tablero-de-ajedrez-)
-    - [Materiales Reciclados Utilizados](#materiales-reciclados-utilizados-)
+    - [Cinemática Directa](#-cinematica-directa)
+    - [Cinemática Inversa♗](#cinematica-inversa)
+    - [Diseño Mecánico del Brazo Robot🔧](#diseño-mecánico-del-brazo-robot-)
+    - [Representación del Brazo Robótico en SolidWorks🔧](#representación-del-brazo-robótico-en-solidworks-)
+    - [Diseño de las Piezas y la Caja📦](#diseño-de-las-piezas-y-la-caja-)
+    - [Tablero de Ajedrez♘](#tablero-de-ajedrez-)
+    - [Materiales Reciclados Utilizados🔄](#materiales-reciclados-utilizados-)
 
 
 # Introduccion
@@ -81,7 +81,7 @@ El siguiente programa, desarrollado en Python, permite simular diversas configur
 </p>
 
 
-# Cinematica Inversa
+# Cinematica Inversa ♗
 
 En el contexto del robot ajedrecista, la cinemática inversa se utiliza para determinar los ángulos de las articulaciones necesarios para alcanzar una posición y orientación específicas, como posicionar el efector final en una casilla del tablero. Se implementan tanto el método geométrico como el analítico para verificar los resultados, considerando diferentes configuraciones, como codo arriba y codo abajo. Esta capacidad de ajuste es fundamental para garantizar un movimiento preciso y efectivo del robot al realizar sus jugadas. A modo de corroboración, se puede observar que la posición y orientación proporcionadas por la cinemática directa, al ser ingresadas en la cinemática inversa, generan los mismos ángulos de las articulaciones utilizados en la cinemática directa. Esto valida la precisión de ambos métodos y asegura que el robot puede reproducir efectivamente las posiciones deseadas en el tablero.
 
@@ -89,7 +89,7 @@ En el contexto del robot ajedrecista, la cinemática inversa se utiliza para det
   <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/raw/main/Imagenes/Cinematica%20Directa%20e%20Inversa.png" alt="Brazo Robótico" width="1100"/>
 </p>
 
-# Diseño Mecanico del Brazo Robot
+# Diseño Mecanico del Brazo Robot 🔧
 
 En esta sección se presenta el diseño mecánico del robot ajedrecista, desglosando sus diferentes componentes. Cada parte del robot está identificada con un número en la imagen, lo que facilitará su explicación. A continuación, se incluye una tabla que detalla las funciones y características de cada pieza.
 
