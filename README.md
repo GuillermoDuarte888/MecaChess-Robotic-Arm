@@ -19,7 +19,7 @@
 ## Índice
 - [Introducción](#introducción)
  - [Recursos y Tecnologías Integradas](#-recursos-y-tecnologias-integradas)
- - [Software Empleados](#software-empleados-)
+    - [Software Empleados](#software-empleados-)
  - [Bibliotecas de Phyton Utilizadas](#bibliotecas-de-phyton-utilizadas-)
  - [Cinemática Directa](#cinemática-directa-)
  - [Cinemática Inversa](#cinemática-inversa-)
