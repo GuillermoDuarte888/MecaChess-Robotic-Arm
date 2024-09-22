@@ -64,7 +64,7 @@ El presente proyecto denominado **"MecaChess Robotic Arm"** tiene como finalidad
 | PyQt                     | Se utilizó la biblioteca PyQt para desarrollar la interfaz gráfica de las cinemáticas, facilitando la interacción del usuario con el sistema. |
 
 
-<h1 align="center">⚙️ Diseño Mecanico y Cinematicas ⚙️</h1> 
+<h1 align="center">🔩 Diseño Mecanico y Cinematicas 🔩</h1> 
 
 # Cinematica Directa ♖
 
