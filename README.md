@@ -18,7 +18,7 @@
 
 ## Índice
 - [Introducción](#introducción)
-- [Recursos y Tecnologias Integradas](#Recursos y Tecnologias Integradas)
+- [Recursos y Tecnologías Integradas](#-recursos-y-tecnologias-integradas)
 
 # Introduccion ♔
 
