@@ -21,7 +21,7 @@
  - [💻Recursos y Tecnologías Integradas💻](#-recursos-y-tecnologias-integradas-)
     - [Software Empleados♕](#software-empleados-)
     - [Bibliotecas de Phyton Utilizadas📚](#bibliotecas-de-phyton-utilizadas-)
-- [⚙️Diseño Mecanico y Cinematicas⚙️](#-diseño-mecanico-y-cinematicas-)
+- [🔩Diseño Mecanico y Cinematicas🔩](#-diseño-mecanico-y-cinematicas-)
     - [Cinemática Directa♖](#cinematica-directa-)
     - [Cinemática Inversa♗](#cinematica-inversa-)
     - [Diseño Mecánico del Brazo Robot🎨](#diseño-mecanico-del-brazo-robot)
