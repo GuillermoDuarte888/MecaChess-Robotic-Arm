@@ -21,7 +21,7 @@
  - [Recursos y Tecnologías Integradas](#-recursos-y-tecnologias-integradas-)
     - [Software Empleados](#software-empleados-)
     - [Bibliotecas de Phyton Utilizadas](#bibliotecas-de-phyton-utilizadas-)
-- [Diseño Mecanico y Cinematicas](#-diseño-mecanico-y-cinematicas-)
+- [Diseño Mecanico y Cinematicas](#diseño-mecanico-y-cinematicas)
     - [Cinemática Directa](#cinemática-directa-)
     - [Cinemática Inversa](#cinemática-inversa-)
     - [Diseño Mecánico del Brazo Robot](#diseño-mecánico-del-brazo-robot-)
@@ -64,7 +64,7 @@ El presente proyecto denominado **"MecaChess Robotic Arm"** tiene como finalidad
 | PyQt                     | Se utilizó la biblioteca PyQt para desarrollar la interfaz gráfica de las cinemáticas, facilitando la interacción del usuario con el sistema. |
 
 
-<h1 align="center">⚙️ Diseño Mecanico y Cinematicas ⚙️</h1> 
+<h1 align="center">⚙️Diseño Mecanico y Cinematicas⚙️</h1> 
 
 # Cinematica Directa ♖
 
