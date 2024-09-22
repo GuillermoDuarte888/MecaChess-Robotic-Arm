@@ -241,6 +241,10 @@ baud_rate = 9600       # Velocidad de comunicación con Arduino
    - El turno actual del jugador
 5. Para cada jugada de las piezas verdes, presiona el botón rojo al finalizar la jugada. Esto permitirá que el robot capture las posiciones actuales y continúe con el desarrollo del juego.
 
+<p align="center">
+  <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/raw/main/Imagenes/Interfaz.png" alt="Interfaz" width="800"/>
+</p>
+
 # Consideraciones 📋
 
 Es fundamental que no se realice ninguna acción sobre el tablero a menos que sea el turno del jugador ademas de otras recomendaciones que se detallaran a continuacion:
