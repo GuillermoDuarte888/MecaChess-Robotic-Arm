@@ -17,7 +17,7 @@
 </section>
 
 ## Índice
-- [Introducción](#introduccion-)
+- [Introduccion](#introduccion)
  - [Recursos y Tecnologías Integradas](#-recursos-y-tecnologias-integradas-)
     - [Software Empleados](#software-empleados-)
     - [Bibliotecas de Phyton Utilizadas](#bibliotecas-de-phyton-utilizadas-)
