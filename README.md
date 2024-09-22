@@ -16,7 +16,7 @@
 <p>👤 Gaston Alejandro Díaz</p>
 </section>
 
-## Índice
+# Índice
 - [Introduccion🔗](#introduccion)
  - [💻Recursos y Tecnologías Integradas💻](#-recursos-y-tecnologias-integradas-)
     - [Software Empleados♕](#software-empleados-)
