@@ -228,9 +228,34 @@ baud_rate = 9600       # Velocidad de comunicación con Arduino
 3. Para verificar el puerto, accede a la IDE de Arduino y dirígete a **Herramientas** > **Puerto**.
 
 <h1 align="center">🎮 Inicio del Juego 🎮</h1> 
-...
 
-<h1 align="center">Proyecto en Funcionamiento</h1>
+1. Ejecuta la última celda titulada **"Bucle principal"**.
+2. Al ejecutarla, se abrirá una ventana con la vista de la cámara.
+3. Presiona el botón rojo físico del juego:
+   - En la primera activación, se capturará la imagen del tablero.
+   - En la segunda activación, se registrarán las posiciones iniciales de las piezas.
+4. Tras la segunda activación, se abrirá la interfaz del juego, donde se mostrará:
+   - El tablero con las posiciones actuales de las piezas
+   - Las jugadas realizadas por Stockfish
+   - La validación de cada jugada
+   - El turno actual del jugador
+5. Para cada jugada de las piezas verdes, presiona el botón rojo al finalizar la jugada. Esto permitirá que el robot capture las posiciones actuales y continúe con el desarrollo del juego.
+
+# Consideraciones 📋
+
+Es fundamental que no se realice ninguna acción sobre el tablero a menos que sea el turno del jugador ademas de otras recomendaciones que se detallaran a continuacion:
+
+1. **Prevención de Detección Errónea:** Evitar que la cámara registre movimientos no deseados que puedan interferir con la detección de las piezas y el tablero.
+   
+2. **Seguridad:** Minimizar el riesgo de colisiones entre el brazo robótico y los jugadores, lo cual podría ocasionar daños tanto al equipo como a las personas involucradas.
+
+3. **Integridad del Juego:** Asegurar que el flujo del juego se mantenga sin interrupciones ni confusiones en las jugadas.
+
+4. **Iluminación Controlada:** Es crucial que el juego se desarrolle en un entorno con iluminación controlada. Evitar exposiciones a variaciones significativas de luz es esencial para asegurar la precisión en la detección.
+
+5. **Posicionamiento del Dispositivo:** El dispositivo móvil debe estar posicionado por encima de la zona de trabajo del robot, ajustando adecuadamente la altura del trípode para garantizar una visualización óptima del tablero y las piezas.
+
+<h1 align="center">🤖 Proyecto en Funcionamiento 🤖</h1>
 <p align="center">
   <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/raw/main/Imagenes/brazo%20robot.gif" alt="Demostración" width="300"/>
 </p>
