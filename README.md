@@ -199,6 +199,17 @@ En esta sección, se explicará cómo compilar el código fuente del proyecto y 
 6. Selecciona el color **verde**; notarás que ahora detecta tanto las piezas verdes como las azules. Presiona **"v"** para confirmar y luego **"Esc"**.
 7. Los valores se mostrarán debajo del código en el orden mencionado.
 
+### Paso 3: Cargar los valores en la celda de funciones
+
+1. Dirígete a la celda titulada **CODIGOS DE LAS FUNCIONES UTILIZADAS**.
+2. Carga los valores obtenidos de la calibración en el siguiente formato:
+
+```python
+# CARGAR LOS VALORES OBTENIDOS POR GOTEO AQUI:
+Am1, Am2, Am3, Am4, Am5, Am6 = [12, 66, 169, 32, 255, 255]   # Amarillo
+Az1, Az2, Az3, Az4, Az5, Az6 = [100, 116, 130, 120, 255, 255] # Azul
+Ve1, Ve2, Ve3, Ve4, Ve5, Ve6 = [79, 86, 81, 99, 255, 255]     # Verde
+AV1, AV2, AV3, AV4, AV5, AV6 = [79, 90, 76, 180, 255, 255]    # Verde y Azul
 
 
 <h1 align="center">Proyecto en Funcionamiento</h1>
