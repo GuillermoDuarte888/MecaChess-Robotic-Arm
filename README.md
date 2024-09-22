@@ -189,6 +189,18 @@ En esta sección, se explicará cómo compilar el código fuente del proyecto y 
 3. **Verificación:** Comprueba que el software en la computadora muestre la transmisión de video del celular.
 
 
+### Paso 2: Ejecución de la celda de calibración de extracción de color
+
+1. Dirígete al código de Python y ejecuta la primera celda titulada **Color Extraction Calibration**.
+2. Se abrirá la cámara. Coloca la cámara de modo que capte el tablero y las piezas.
+3. Haz clic en el color **amarillo** en las esquinas del tablero y presiona **"v"** para confirmar.
+4. Repite el proceso para los colores **azul** y **verde** en ese orden.
+5. Después de definir los tres colores, presiona **"Esc"** para cerrar la ventana. Esta se abrirá nuevamente.
+6. Selecciona el color **verde**; notarás que ahora detecta tanto las piezas verdes como las azules. Presiona **"v"** para confirmar y luego **"Esc"**.
+7. Los valores se mostrarán debajo del código en el orden mencionado.
+
+
+
 <h1 align="center">Proyecto en Funcionamiento</h1>
 <p align="center">
   <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/raw/main/Imagenes/brazo%20robot.gif" alt="Demostración" width="300"/>
