@@ -42,7 +42,7 @@
     - [Consideraciones 📋](#consideraciones-)
 - [🤖 Proyecto en Funcionamiento 🤖](#-proyecto-en-funcionamiento-)
 - [♛ Futuras Propuestas y Mejoras ♛](#-futuras-propuestas-y-mejoras-)
-- [📝 Reconocimientos 📝](-reconocimientos-)
+- [📝 Reconocimientos 📝](#-reconocimientos-)
   
 # Introduccion🔗
 
