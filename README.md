@@ -12,9 +12,9 @@
 </p>
 
 # Integrantes
-<p>👤 Guillermo Daniel Duarte</p>
-<p>👤 Gaston Alejandro Díaz</p>
-</section>
+<p>👤 <a href="https://github.com/GuillermoDuarte888">Guillermo Daniel Duarte</a></p>
+<p>👤 <a href="https://github.com/GastonADiaz">Gaston Alejandro Díaz</a></p>
+
 
 # Índice
 - [Introduccion🔗](#introduccion)
