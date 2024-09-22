@@ -19,6 +19,7 @@
 ## Índice
 - [Introducción](#introducción)
 - [Recursos y Tecnologías Integradas](#-recursos-y-tecnologias-integradas)
+- [Software Empleados](#software-empleados-)
 
 # Introduccion ♔
 
