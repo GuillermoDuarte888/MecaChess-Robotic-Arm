@@ -227,6 +227,12 @@ baud_rate = 9600       # Velocidad de comunicación con Arduino
 ```
 3. Para verificar el puerto, accede a la IDE de Arduino y dirígete a **Herramientas** > **Puerto**.
 
+# Paso 5: Cargar el Código a la Placa Arduino
+
+1. Selecciona el puerto y la placa correspondientes en el IDE de Arduino.
+2. Compila el código para verificar que no haya errores.
+3. Sube el código al microcontrolador haciendo clic en el botón de carga.
+
 <h1 align="center">🎮 Inicio del Juego 🎮</h1> 
 
 1. Ejecuta la última celda titulada **"Bucle principal"**.
