@@ -33,7 +33,7 @@
     - [Diagrama del Circuito Electronico 🔌](#diagrama-del-circuito-electronico-)
     - [Componentes del Circuito Electrónico 🧩](#Componentes-del-circuito-electrónico-)
 - [🧰 Configuración y Ejecución del Código 🧰](#-configuracion-y-ejecucion-del-codigo-)
-    - [Paso 1: Conectar el celular a la computadora con Iriun Webcam](#paso-1:-conectar-el-celular-a-la-computadora-con-iriun-webcam)
+    - [Paso 1 Conectar el celular a la computadora con Iriun Webcam](#paso-1-conectar-el-celular-a-la-computadora-con-iriun-webcam)
   
 # Introduccion🔗
 
@@ -195,7 +195,7 @@ El circuito se llevó a cabo en una plaqueta de cobre perforada, debido a que el
 En esta sección, se explicará cómo compilar el código fuente del proyecto y cargar los valores necesarios en Python. Se abordarán los pasos para utilizar el entorno de desarrollo adecuado, asegurando que el código se ejecute correctamente. Además, se incluirán detalles sobre la configuración de parámetros y la verificación de conexiones antes de iniciar el proceso de carga.
 
 
-# Paso 1: Conectar el celular a la computadora con Iriun Webcam
+# Paso 1 Conectar el celular a la computadora con Iriun Webcam
 
 1. **Instalación:**
    - **Celular:** Descarga Iriun Webcam desde la [Play Store](https://play.google.com/store/apps/details?id=com.iriun.wifi.cam).
