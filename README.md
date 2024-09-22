@@ -29,7 +29,7 @@
     - [Diseño de las Piezas y la Caja📦](#diseño-de-las-piezas-y-la-caja-)
     - [Tablero de Ajedrez♘](#tablero-de-ajedrez-)
     - [Materiales Reciclados Utilizados🔄](#materiales-reciclados-utilizados-)
-
+- [💡 Diseño Electronico del Proyecto 💡](#-diseño-electronico-del-proyecto-)
 
 # Introduccion🔗
 
