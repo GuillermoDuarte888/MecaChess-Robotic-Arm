@@ -34,7 +34,7 @@
     - [Componentes del Circuito Electrónico 🧩](#Componentes-del-circuito-electrónico-)
 - [💻 Configuración y Ejecución del Código 💻](#-configuracion-y-ejecucion-del-codigo-)
     - [Conectar el celular a la computadora con Iriun Webcam](#conectar-el-celular-a-la-computadora-con-iriun-webcam)
-    - [Ejecución de la celda de calibración de extracción de color](#ejecucion-de-la-celda-de-calibracion-de-extraccion-de-color)
+    - [Ejecución de la celda de calibración de extracción de color](#ejecución-de-la-celda-de-calibración-de-extracción-de-color)
   
 # Introduccion🔗
 
