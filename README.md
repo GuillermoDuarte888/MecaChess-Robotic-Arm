@@ -227,7 +227,9 @@ baud_rate = 9600       # Velocidad de comunicación con Arduino
 ```
 3. Para verificar el puerto, accede a la IDE de Arduino y dirígete a **Herramientas** > **Puerto**.
 
+# Inicio del Juego 🎮
 
+...
 
 <h1 align="center">Proyecto en Funcionamiento</h1>
 <p align="center">
