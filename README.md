@@ -114,6 +114,11 @@ Este enfoque en el diseño y la estabilidad refleja un compromiso con la funcion
 
 El tablero de ajedrez tiene un tamaño de 18 x 18 cm y fue realizado de manera manual, pintado sobre madera reciclada. Se optó por el diseño clásico en blanco y negro, ya que este contraste permite una mejor detección de las piezas durante el juego. Además, en cada esquina del tablero se pintó un círculo de color amarillo, lo cual permite la deteccion del tablero. Este enfoque no solo resalta las piezas, sino que también proporciona una estética tradicional que es apreciada por los jugadores. La elección de materiales reciclados refleja un compromiso con la sostenibilidad y la creatividad en el diseño.
 
+<p align="center">
+  <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/raw/main/Imagenes/Tablero.png" alt="Brazo Robótico" width="500"/>
+</p>
+
+
 # Materiales Reciclados Utilizados 🔄 
 
 En este proyecto se hizo un esfuerzo consciente por utilizar materiales reciclados, contribuyendo así a la sostenibilidad y reducción de residuos. Este enfoque no solo permite ahorrar recursos, sino que también demuestra que no es necesario gastar mucho dinero cuando el ingenio y la creatividad predominan. Utilizar materiales reciclados no solo es una opción sostenible, sino que también abre la puerta a innovaciones únicas en el diseño y la construcción del proyecto. A continuación, se describen los materiales empleados:
