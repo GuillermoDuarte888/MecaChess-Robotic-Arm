@@ -18,16 +18,16 @@
 
 ## Índice
 - [Introducción](#introducción)
-- [Recursos y Tecnologías Integradas](#-recursos-y-tecnologias-integradas)
-- [Software Empleados](#software-empleados-)
-- [Bibliotecas de Phyton Utilizadas](#bibliotecas-de-phyton-utilizadas-)
-- [Cinemática Directa](#cinemática-directa-)
-- [Cinemática Inversa](#cinemática-inversa-)
-- [Diseño Mecánico del Brazo Robot](#diseño-mecánico-del-brazo-robot-)
-- [Representación del Brazo Robótico en SolidWorks](#representación-del-brazo-robótico-en-solidworks-)
-- [Diseño de las Piezas y la Caja](#diseño-de-las-piezas-y-la-caja-)
-- [Tablero de Ajedrez](#tablero-de-ajedrez-)
-- [Materiales Reciclados Utilizados](#materiales-reciclados-utilizados-)
+ - [Recursos y Tecnologías Integradas](#-recursos-y-tecnologias-integradas)
+ - [Software Empleados](#software-empleados-)
+ - [Bibliotecas de Phyton Utilizadas](#bibliotecas-de-phyton-utilizadas-)
+ - [Cinemática Directa](#cinemática-directa-)
+ - [Cinemática Inversa](#cinemática-inversa-)
+ - [Diseño Mecánico del Brazo Robot](#diseño-mecánico-del-brazo-robot-)
+ - [Representación del Brazo Robótico en SolidWorks](#representación-del-brazo-robótico-en-solidworks-)
+ - [Diseño de las Piezas y la Caja](#diseño-de-las-piezas-y-la-caja-)
+ - [Tablero de Ajedrez](#tablero-de-ajedrez-)
+ - [Materiales Reciclados Utilizados](#materiales-reciclados-utilizados-)
 
 
 # Introduccion ♔
