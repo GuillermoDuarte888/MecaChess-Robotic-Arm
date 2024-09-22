@@ -22,7 +22,7 @@
     - [Software Empleados](#software-empleados-)
     - [Bibliotecas de Phyton Utilizadas](#bibliotecas-de-phyton-utilizadas-)
 - [⚙️Diseño Mecanico y Cinematicas⚙️](#diseño-mecanico-y-cinematicas)
-    - [Cinemática Directa](#cinemática-directa)
+    - [Cinemática Directa](#-cinemática-directa)
     - [Cinemática Inversa♗](#cinemática-inversa)
     - [Diseño Mecánico del Brazo Robot🔧](#diseño-mecánico-del-brazo-robot)
     - [Representación del Brazo Robótico en SolidWorks](#representación-del-brazo-robótico-en-solidworks-)
