@@ -22,9 +22,9 @@
     - [Software Empleados♕](#software-empleados-)
     - [Bibliotecas de Phyton Utilizadas📚](#bibliotecas-de-phyton-utilizadas-)
 - [⚙️Diseño Mecanico y Cinematicas⚙️](#diseño-mecanico-y-cinematicas)
-    - [Cinemática Directa](#-cinematica-directa)
-    - [Cinemática Inversa♗](#cinematica-inversa)
-    - [Diseño Mecánico del Brazo Robot🔧](#diseño-mecánico-del-brazo-robot-)
+    - [Cinemática Directa♖](#cinematica-directa-)
+    - [Cinemática Inversa♗](#cinematica-inversa-)
+    - [Diseño Mecánico del Brazo Robot🔧](#diseño-mecanico-del-brazo-robot-)
     - [Representación del Brazo Robótico en SolidWorks🔧](#representación-del-brazo-robótico-en-solidworks-)
     - [Diseño de las Piezas y la Caja📦](#diseño-de-las-piezas-y-la-caja-)
     - [Tablero de Ajedrez♘](#tablero-de-ajedrez-)
@@ -66,7 +66,7 @@ El presente proyecto denominado **"MecaChess Robotic Arm"** tiene como finalidad
 
 <h1 align="center">Diseño Mecanico y Cinematicas</h1> 
 
-# Cinematica Directa
+# Cinematica Directa ♖
 
 La cinemática directa permite calcular la posición y orientación del efector final del robot ajedrecista a partir de los valores de las articulaciones. Para ello, se utilizan transformaciones homogéneas aplicadas de manera sistemática, empleando el método de Denavit-Hartenberg. Este enfoque proporciona un marco estándar para representar las configuraciones articulares y facilita la obtención de las coordenadas del efector final en el espacio tridimensional. Comprender este proceso es fundamental para analizar el movimiento del robot en el tablero de ajedrez y es esencial para el diseño de algoritmos de control de trayectorias que optimicen su desempeño en el juego.
 
