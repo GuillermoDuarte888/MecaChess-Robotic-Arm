@@ -32,7 +32,7 @@
 - [💡 Diseño Electronico del Proyecto 💡](#-diseño-electronico-del-proyecto-)
     - [Diagrama del Circuito Electronico 🔌](#diagrama-del-circuito-electronico-)
     - [Componentes del Circuito Electrónico 🧩](#Componentes-del-circuito-electrónico-)
-- [💻 Configuración y Ejecución del Código 💻](#-configuracion-y-ejecucion-del-codigo-)
+- [📲 Configuración y Ejecución del Código 📲](#-configuración-y-ejecución-del-código-)
     - [Conectar el celular a la computadora con Iriun Webcam](#conectar-el-celular-a-la-computadora-con-iriun-webcam)
     - [Ejecución de la celda de calibración de extracción de color](#ejecución-de-la-celda-de-calibración-de-extracción-de-color)
   
@@ -191,7 +191,7 @@ En esta sección, se describe la electrónica utilizada en el proyecto. Se utili
 
 El circuito se llevó a cabo en una plaqueta de cobre perforada, debido a que el diseño del circuito es bastante simple. Este tipo de plaqueta permite realizar conexiones de manera eficiente y rápida, sin la necesidad de recurrir a un diseño en software o a una placa de circuito impreso (PCB) más compleja. La simplicidad del conexionado facilita la construcción y modificación del circuito según se vaya actualizando.
 
-<h1 align="center">💻 Configuración y Ejecución del Código 💻</h1> 
+<h1 align="center">📲 Configuración y Ejecución del Código 📲</h1> 
 
 En esta sección, se explicará cómo compilar el código fuente del proyecto y cargar los valores necesarios en Python. Se abordarán los pasos para utilizar el entorno de desarrollo adecuado, asegurando que el código se ejecute correctamente. Además, se incluirán detalles sobre la configuración de parámetros y la verificación de conexiones antes de iniciar el proceso de carga.
 
