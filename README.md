@@ -34,6 +34,7 @@
     - [Componentes del Circuito Electrónico 🧩](#Componentes-del-circuito-electrónico-)
 - [💻 Configuración y Ejecución del Código 💻](#-configuracion-y-ejecucion-del-codigo-)
     - [Conectar el celular a la computadora con Iriun Webcam](#conectar-el-celular-a-la-computadora-con-iriun-webcam)
+    - [Ejecución de la celda de calibración de extracción de color](#ejecucion-de-la-celda-de-calibracion-de-extraccion-de-color)
   
 # Introduccion🔗
 
@@ -208,7 +209,7 @@ En esta sección, se explicará cómo compilar el código fuente del proyecto y 
 3. **Verificación:** Comprueba que el software en la computadora muestre la transmisión de video del celular.
 
 
-# Paso 2: Ejecución de la celda de calibración de extracción de color
+# Ejecución de la celda de calibración de extracción de color
 
 1. Dirígete al código de Python y ejecuta la primera celda titulada **🔷Color Extraction Calibration🔷**.
 2. Se abrirá la cámara. Coloca la cámara de modo que capte el tablero y las piezas.
