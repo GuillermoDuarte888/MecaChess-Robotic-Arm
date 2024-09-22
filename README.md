@@ -38,6 +38,7 @@
     - [Cargar los valores en la celda de funciones](#cargar-los-valores-en-la-celda-de-funciones)
     - [Ejecutar la celda PUERTO SERIE](#ejecutar-la-celda-puerto-serie)
     - [Cargar el Código a la Placa Arduino](#cargar-el-código-a-la-placa-arduino)
+- [🎮 Inicio del Juego 🎮](-inicio-del-juego-)
   
 # Introduccion🔗
 
