@@ -30,6 +30,8 @@
     - [Tablero de Ajedrez♘](#tablero-de-ajedrez-)
     - [Materiales Reciclados Utilizados🔄](#materiales-reciclados-utilizados-)
 - [💡 Diseño Electronico del Proyecto 💡](#-diseño-electronico-del-proyecto-)
+    - [Diagrama del Circuito Electronico 🔌](#diagrama-del-circuito-electronico-)
+    - [Componentes del Circuito Electrónico 🧩](#Componentes-del-circuito-electrónico-)
 
 # Introduccion🔗
 
