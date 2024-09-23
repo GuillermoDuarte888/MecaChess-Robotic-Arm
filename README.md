@@ -294,8 +294,13 @@ Es fundamental que no se realice ninguna acción sobre el tablero a menos que se
 5. **Posicionamiento del Dispositivo:** El dispositivo móvil debe estar posicionado por encima de la zona de trabajo del robot, ajustando adecuadamente la altura del trípode para garantizar una visualización óptima del tablero y las piezas.
 
 <h1 align="center">🤖 Proyecto en Funcionamiento 🤖</h1>
+
 <p align="center">
   <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/raw/main/Imagenes/brazo%20robot.gif" alt="Demostración" width="300"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/raw/main/Imagenes/Robot%20Jugada.gif" alt="Demostración" width="300"/>
 </p>
 
 <h1 align="center">♛ Futuras Propuestas y Mejoras ♛</h1> 
