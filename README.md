@@ -121,7 +121,7 @@ En esta sección se presenta el diseño mecánico del robot ajedrecista, desglos
 | 7      | Unión de Pinza parte 1         | Primera parte de la pinza que permite el agarre.   | 1                     |
 | 8      | Unión de Pinza parte 2         | Segunda parte que complementa el mecanismo de agarre. | 1                  |
 | 9      | Unión de Pinza parte 3         | Tercera parte que complementa el mecanismo de agarre. | 4                  |
-| 10     | Dedos                            | Elemento que permiten un agarre preciso y controlado de las piezas. | 2  |
+| 10     | Dedos                            | Elemento que permite un agarre preciso y controlado de las piezas. | 2  |
 
 
 # Representación del Brazo Robótico en SolidWorks 🔧
