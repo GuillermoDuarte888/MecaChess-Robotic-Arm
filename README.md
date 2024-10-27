@@ -55,7 +55,6 @@ El presente proyecto denominado **"MecaChess Robotic Arm"** tiene como finalidad
 | Software                  | Descripción                                                                                        |
 |--------------------------|-----------------------------------------------------------------------------------------------------|
 | SolidWorks 2023          |  Se empleó SolidWorks 2023 para el diseño del conjunto elemental, la modelación de diversos componentes y la utilización de su biblioteca de herramientas para tornillos, tuercas y otros elementos de fijación. |
-| Proteus 8 Professional    | Se usó Proteus 8 Professional para el diseño del esquema electrónico y su correspondiente simulacion |
 | Python                  | Se utilizó Python para el desarrollo de la lógica del juego, incluyendo la detección de piezas, el manejo del tablero y el mapeo de las jugadas.   |
 | Arduino IDE              |  Se utilizó Arduino IDE para programar la lógica de las cinemáticas y las funciones necesarias para controlar los movimientos del brazo robótico. |
 |  Stockfish                | Se utilizó Stockfish como motor de ajedrez para la evaluación de posiciones y la generación de movimientos óptimos durante las partidas.         |
@@ -188,11 +187,14 @@ En esta sección, se describe la electrónica utilizada en el proyecto. Se utili
   - ⚡ **6 Resistencias de 10 kΩ:** Utilizadas para limitar la corriente en el circuito y proteger los componentes.
 
 - **LEDs:**
-  - 🔴 **4 LEDs Rojos:** Indicadores de estado o señales visuales, las salidas de los pines son 22, 26, 30, y 34.
+  - 🔴 **4 LEDs RGB:** Indicadores de estado o señales visuales, las salidas de los pines son 22, 26 y 30.
   - 🟢 **1 LED Verde:** Indicador de funcionamiento, salida en el pin 3.
 
 - **Pulsador:**
   - ⚪ **1 Pulsador de 4 patas:** Permite la interacción del usuario y el control manual del circuito, salida en el pin 2.
+
+- **Buzzer:**
+  - 🔔 **1 Buzzer:** Permite emitir sonidos para alertas o señales, controlado a través del pin 34.
 
 - **Fuente de Laboratorio:**
   - 🔋 **Fuente regulable de 5.5 V CC:** Proporciona la alimentación necesaria para el circuito.
@@ -313,8 +315,6 @@ Es fundamental que no se realice ninguna acción sobre el tablero a menos que se
 3. **Actualizaciones de Firmware:** Proporcionar actualizaciones periódicas del firmware del Arduino para mejorar el rendimiento y corregir errores.
 
 4. **Incorporación de IA:** Integrar inteligencia artificial para que el sistema pueda interactuar verbalmente con los jugadores, brindando comentarios y sugerencias durante el juego.
-
-5. **Integración de LEDs RGB:** Incorporar LEDs RGB que se adapten al juego, proporcionando efectos visuales que reflejen el estado del juego y las acciones de los jugadores.
 
 
 <h1 align="center">📝 Reconocimientos 📝</h1> 
