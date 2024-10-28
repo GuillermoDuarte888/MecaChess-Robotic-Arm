@@ -32,7 +32,7 @@
 - [💡 Electronic Design of the Project 💡](#-electronic-design-of-the-project-)
     - [Electronic Circuit Diagram 🔌](#electronic-circuit-diagram-)
     - [Components of the Electronic Circuit 🧩](#components-of-the-electronic-circuit-)
-- [📲 Configuration and Execution of the Code 📲](#configuration-and-execution-of-the-code)
+- [📲 Configuration and Execution of the Code 📲](#configuration-and-execution-of-the-code-)
     - [Connect the Phone to the Computer with Iriun Webcam](#connect-the-phone-to-the-computer-with-iriun-webcam)
     - [Execute the Color Extraction Calibration Cell](#execute-the-color-extraction-calibration-cell)
     - [Load the Values into the Functions Cell](#load-the-values-into-the-functions-cell)
@@ -221,7 +221,7 @@ In this section, we will explain how to compile the project's source code and lo
 3. **Verification:** Check that the software on the computer displays the video feed from the phone.
 
 
-# Execution of the Color Extraction Calibration Cell
+# Execute the Color Extraction Calibration Cell
 
 1. Go to the Python code and execute the first cell titled **🔷Color Extraction Calibration🔷**.
 2. The camera will open. Position the camera so that it captures the board and pieces.
@@ -232,7 +232,7 @@ In this section, we will explain how to compile the project's source code and lo
 7. The values will be displayed below the code in the mentioned order.
 8. Clarification: Adjust the colors as many times as necessary by clicking on each of them, keeping in mind that it will only take the values when you press "v".
 
-# Load Values in the Functions Cell
+# Load the Values into the Functions Cell
 
 1. Go to the cell titled **🔶FUNCTION CODES USED🔶**.
 2. Load the values obtained from the calibration in the following format, following the order:
@@ -247,7 +247,7 @@ AV1, AV2, AV3, AV4, AV5, AV6 = [79, 90, 76, 180, 255, 255]    # Green and Blue
 3. Make sure to load the values into the corresponding vectors within the brackets [].
 4. Once loaded, execute the cell to continue.
 
-# Execute the SERIAL PORT Cell
+# Run the SERIAL PORT Cell
 
 1. Execute the cell titled **🌸SERIAL PORT🌸**.
 2. Load the port corresponding to which the Arduino is connected in the following format:
