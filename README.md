@@ -17,7 +17,7 @@
 
 
 # Index
-- [Introduction 🔗](# introduction )
+- [Introduction 🔗](#introduction-)
  - [💻Resources and Integrated Technologies💻](#resources-and-integrated-technologies)
     - [Software Used♕](#software-used)
     - [Python Libraries Used📚](#python-libraries-used)
