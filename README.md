@@ -32,13 +32,13 @@
 - [💡 Electronic Design of the Project 💡](#-electronic-design-of-the-project-)
     - [Electronic Circuit Diagram 🔌](#electronic-circuit-diagram-)
     - [Components of the Electronic Circuit 🧩](#components-of-the-electronic-circuit-)
-- [📲 Configuration and Execution of the Code 📲](#configuration-and-execution-of-the-code-)
+- [📲 Configuration and Execution of the Code 📲](#-configuration-and-execution-of-the-code-)
     - [Connect the Phone to the Computer with Iriun Webcam](#connect-the-phone-to-the-computer-with-iriun-webcam)
     - [Execute the Color Extraction Calibration Cell](#execute-the-color-extraction-calibration-cell)
     - [Load the Values into the Functions Cell](#load-the-values-into-the-functions-cell)
     - [Run the SERIAL PORT Cell](#run-the-serial-port-cell)
     - [Upload the Code to the Arduino Board](#upload-the-code-to-the-arduino-board)
-- [🎮 Start the Game 🎮](#start-the-game)
+- [🎮 Start the Game 🎮](#-start-the-game-)
     - [Considerations 📋](#considerations)
 - [🤖 Project in Operation 🤖](#project-in-operation)
 - [♛ Future Proposals and Improvements ♛](#future-proposals-and-improvements)
@@ -265,7 +265,7 @@ baud_rate = 9600       # Communication speed with Arduino
 2. Compile the code to check for any errors.
 3. Upload the code to the microcontroller by clicking the upload button.
 
-<h1 align="center">🎮 Game Start 🎮</h1> 
+<h1 align="center">🎮 Start the Game 🎮</h1> 
 
 1. Execute the last cell titled **"Main Loop"**.
 2. When executed, a window with the camera view will open.
