@@ -39,10 +39,10 @@
     - [Run the SERIAL PORT Cell](#run-the-serial-port-cell)
     - [Upload the Code to the Arduino Board](#upload-the-code-to-the-arduino-board)
 - [🎮 Start the Game 🎮](#-start-the-game-)
-    - [Considerations 📋](#considerations)
-- [🤖 Project in Operation 🤖](#project-in-operation)
-- [♛ Future Proposals and Improvements ♛](#future-proposals-and-improvements)
-- [📝 Acknowledgments 📝](#acknowledgments)
+    - [Considerations 📋](#considerations-)
+- [🤖 Project in Operation 🤖](#-project-in-operation-)
+- [♛ Future Proposals and Improvements ♛](#-future-proposals-and-improvements-)
+- [📝 Acknowledgments 📝](#-acknowledgments-)
   
 # Introduction 🔗
 
