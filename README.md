@@ -30,7 +30,7 @@
     - [Chessboard ♘](#chessboard-)
     - [Recycled Materials Used 🔄](#recycled-materials-used-)
 - [💡 Electronic Design of the Project 💡](#-electronic-design-of-the-project-)
-    - [Circuit Diagram 🔌](#circuit-diagram-)
+    - [Electronic Circuit Diagram 🔌](#electronic-circuit-diagram-)
     - [Components of the Electronic Circuit 🧩](#components-of-the-electronic-circuit-)
 - [📲 Configuration and Execution of the Code 📲](#configuration-and-execution-of-the-code)
     - [Connect the Phone to the Computer with Iriun Webcam](#connect-the-phone-to-the-computer-with-iriun-webcam)
