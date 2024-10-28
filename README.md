@@ -18,9 +18,9 @@
 
 # Index
 - [Introduction 🔗](#introduction-)
- - [💻Resources and Integrated Technologies💻](#resources-and-integrated-technologies)
-    - [Software Used♕](#software-used)
-    - [Python Libraries Used📚](#python-libraries-used)
+ - [💻 Resources and Integrated Technologies 💻](#resources-and-integrated-technologies)
+    - [Software Used ♕](#software-used-)
+    - [Python Libraries Used 📚](#python-libraries-used-)
 - [🔩Mechanical Design and Kinematics🔩](#mechanical-design-and-kinematics)
     - [Direct Kinematics♖](#direct-kinematics)
     - [Inverse Kinematics♗](#inverse-kinematics)
