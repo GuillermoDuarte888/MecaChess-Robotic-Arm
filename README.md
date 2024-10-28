@@ -297,7 +297,7 @@ Es fundamental que no se realice ninguna acción sobre el tablero a menos que se
 
 <h1 align="center">🤖 Proyecto en Funcionamiento 🤖</h1>
 
-[PEQUEÑA DEMOSTRACION](https://www.youtube.com/watch?v=mJXuzqAW_us)
+[Link del video, demostracion del brazo robot](https://www.youtube.com/watch?v=mJXuzqAW_us)
 
 <p align="center">
   <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/raw/main/Imagenes/brazo%20robot.gif" alt="Demostración" width="300"/>
