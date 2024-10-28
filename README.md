@@ -103,7 +103,7 @@ In the context of the chess robot, inverse kinematics is used to determine the j
   <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/raw/main/Imagenes/Cinematica%20Directa%20e%20Inversa.png" alt="Brazo Robótico" width="1100"/>
 </p>
 
-# Mechanical Design of the Robot Arm 🎨
+# Mechanical Design of the Robotic Arm 🎨
 
 In this section, the mechanical design of the chess robot is presented, breaking down its various components. Each part of the robot is identified with a number in the image, which will facilitate its explanation. Below is a table detailing the functions and features of each piece.
 
