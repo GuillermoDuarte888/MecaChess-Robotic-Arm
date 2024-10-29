@@ -394,9 +394,9 @@ I would like to express my sincere gratitude to several people and organizations
 </p>
 
 <p align="center">
-  <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/blob/main/Imagenes/Epic%20Nikola%20Tesla.mp4" alt="Demostración" width="300"/>
+  <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/blob/main/Imagenes/Epic%20Nikola%20Tesla.gif" width="300"/>
   <br>
-  <em>MecaChess in Action</em>
+  <em>Nikola Tesla</em>
 </p>
 
 
