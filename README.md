@@ -16,7 +16,7 @@
 
 # Index
 - **1.0** [Introduction 🔗](#introduction-)
-- **2.0** [📲 Project Features 📲](-project-features-)
+- **2.0** [📲 Project Features 📲](#-project-features-)
     - **2.1** [Voice Command Control](#voice-command-control)
     - **2.2** [Integration with Chess.com](#integration-with-chess)
     - **2.3** [Kinematic Simulation](#kinematic-simulation)
