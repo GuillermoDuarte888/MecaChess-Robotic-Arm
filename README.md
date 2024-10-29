@@ -157,7 +157,7 @@ In this section, the mechanical design of the chess robot is presented, breaking
 
 # Representation of the Robotic Arm in SolidWorks 🔧
 <p align="center">
-  <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/raw/main/Imagenes/Brazo%20Robot%20dise%C3%B1o%20completo.png" alt="Brazo Robótico" width="500"/>
+  <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/blob/main/Imagenes/Renderizacion%20del%20Brazo%20Robot.JPG" alt="Brazo Robótico" width="500"/>
   <br>
   <em>Robot arm in SolidWorks</em>
 </p>
