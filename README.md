@@ -20,7 +20,7 @@
     - **2.1** [Voice Command Control](#voice-command-control)
     - **2.2** [Integration with Chess.com](#integration-with-chess)
     - **2.3** [Kinematic Simulation](#kinematic-simulation)
-    - **2.4** [Graphical User Interface and Autonomous Play](#graphical-user-iterface-and-autonomous-play)
+    - **2.4** [Graphical User Interface and Autonomous Play](#graphical-user-interface-and-autonomous-play)
  - **3.0** [💻 Integrated Resources and Technologies 💻](#-integrated-resources-and-technologies-)
     - **3.1** [Software Used](#software-used-)
     - **3.2** [Python Libraries Used](#python-libraries-used-)
