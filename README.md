@@ -390,14 +390,16 @@ I would like to express my sincere gratitude to several people and organizations
 **To all readers:** I hope you find this project interesting and useful.
 
 <p align="center">
-  <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/raw/main/Imagenes/Logo%20de%20la%20Facultad%20de%20Ingenieria.png" alt="Brazo Robótico" width="800"/>
-</p>
-
-<p align="center">
   <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/blob/main/Imagenes/Epic%20Nikola%20Tesla.gif" width="300"/>
   <br>
   <em>Nikola Tesla</em>
 </p>
+
+
+<p align="center">
+  <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/raw/main/Imagenes/Logo%20de%20la%20Facultad%20de%20Ingenieria.png" alt="Brazo Robótico" width="800"/>
+</p>
+
 
 
 
