@@ -135,6 +135,10 @@ The box was designed in SolidWorks, which facilitated the creation of a precise 
 This focus on design and stability reflects a commitment to the functionality and aesthetics of the project, ensuring that each component works in harmony.
 
 
+<p align="center">
+  <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/blob/main/Imagenes/Piezas%20Verdes.JPG" alt="Brazo Robótico" width="500"/>
+</p>
+
 # Chessboard ♘
 
 The chessboard measures 18 x 18 cm and was handmade, painted on recycled wood. The classic black and white design was chosen, as this contrast allows for better piece detection during play. Additionally, a yellow circle was painted in each corner of the board to aid in board detection. This approach not only highlights the pieces but also provides a traditional aesthetic that is appreciated by players. The choice of recycled materials reflects a commitment to sustainability and creativity in design.
