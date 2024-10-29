@@ -1,6 +1,7 @@
 
 
 <h1 align="center" style="font-size: 3em;">♘ MecaChess Robotic Arm ♘</h1>
+<h2 align="center" style="font-size: 1.5em; color: #555;">An Autonomous Chess Playing Robot</h2>
 
 <p align="center">
   <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/blob/main/Imagenes/Demostracion%20Brazo%20Robot.gif" alt="Demostración" width="300"/>
