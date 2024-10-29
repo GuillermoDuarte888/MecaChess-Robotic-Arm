@@ -15,7 +15,7 @@
 
 
 # Index
-- **1.0** [Introduction 🔗](#introduction-)
+- **1.0** [🔗 Introduction 🔗](#-introduction-)
 - **2.0** [📲 Project Features 📲](#-project-features-)
     - **2.1** [Voice Command Control](#voice-command-control)
     - **2.2** [Integration with Chess.com](#integration-with-chess)
@@ -48,6 +48,7 @@
 - **10.0** [📝 Acknowledgments 📝](#-acknowledgments-)
   
 # Introduction 🔗
+<h1 align="center">🔗 Introduction 🔗</h1>
 
 This project, titled **"MecaChess Robotic Arm,"** aims to create an anthropomorphic robotic arm with 4 degrees of freedom, designed to play chess autonomously. Additionally, it includes extra features that allow it to set up pieces at the start of a game, play through the Chess.com application, move via voice commands, and identify illegal moves, among others. To make it more accessible, affordable and recycled materials were used, achieving an optimal balance between cost and precision without compromising the arm's functionality. Finally, work continues on incorporating new features, such as implementing artificial intelligence and design improvements, among other aspects.
 
