@@ -18,7 +18,7 @@
 - **1.0** [Introduction 🔗](#introduction-)
 - **2.0** [📲 Project Features 📲](-project-features-)
     - **2.1** [Voice Command Control](#voice-command-control)
-    - **2.2** [Integration with Chess.com](#integration-with-chess.com)
+    - **2.2** [Integration with Chess.com](#integration-with-chess)
     - **2.3** [Kinematic Simulation](#kinematic-simulation)
     - **2.4** [Graphical User Interface and Autonomous Play](#graphical-user-iterface-and-autonomous-play)
  - **3.0** [💻 Integrated Resources and Technologies 💻](#-integrated-resources-and-technologies-)
@@ -57,7 +57,7 @@ This project presents an innovative chess-playing experience, incorporating mult
 # Voice Command Control
 The system allows users to move pieces and capture opponents using voice commands. Simply indicate the squares to which you want to move the pieces or the ones you wish to capture, and the robotic arm will execute the corresponding action.
 
-# Integration with Chess.com
+# Integration with Chess
 Users can play online against other players on the Chess.com platform. The robotic arm replicates the moves made by opponents in real-time, providing a smooth and dynamic gaming experience.
 
 # Kinematic Simulation
