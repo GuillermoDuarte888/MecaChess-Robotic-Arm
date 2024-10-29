@@ -52,6 +52,12 @@
 
 This project, titled **"MecaChess Robotic Arm,"** aims to create an anthropomorphic robotic arm with 4 degrees of freedom, designed to play chess autonomously. Additionally, it includes extra features that allow it to set up pieces at the start of a game, play through the Chess.com application, move via voice commands, and identify illegal moves, among others. To make it more accessible, affordable and recycled materials were used, achieving an optimal balance between cost and precision without compromising the arm's functionality. Finally, work continues on incorporating new features, such as implementing artificial intelligence and design improvements, among other aspects.
 
+<p align="center">
+  <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/blob/main/Imagenes/Renderizado%20del%20Brazo%20Robot%20con%20las%20Piezas.JPG" alt="Brazo Robótico" width="800"/>
+  <br>
+  <em>Rendering of the robotic arm with the parts</em>
+</p>
+
 <h1 align="center">📲 Project Features 📲</h1>
 This project presents an innovative chess-playing experience, incorporating multiple functionalities that enhance interactivity and control. Below are the main features:
 
