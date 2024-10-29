@@ -16,35 +16,57 @@
 
 # Index
 - **1.0** [Introduction 🔗](#introduction-)
- - **2.0** [💻 Integrated Resources and Technologies 💻](#-integrated-resources-and-technologies-)
-    - **2.1** [Software Used](#software-used-)
-    - **2.2** [Python Libraries Used](#python-libraries-used-)
-- **3.0** [🔩 Mechanical Design and Kinematics 🔩](#-mechanical-design-and-kinematics-)
-    - **3.1** [Direct Kinematics](#direct-kinematics-)
-    - **3.2** [Inverse Kinematics](#inverse-kinematics-)
-    - **3.3** [Mechanical Design of the Robotic Arm](#mechanical-design-of-the-robotic-arm-)
-    - **3.4** [Representation of the Robotic Arm in SolidWorks](#representation-of-the-robotic-arm-in-solidworks-)
-    - **3.5** [Design of the Pieces and the Box](#design-of-the-pieces-and-the-box-)
-    - **3.6** [Chessboard](#chessboard-)
-    - **3.7** [Recycled Materials Used](#recycled-materials-used-)
-- **4.0** [💡 Electronic Design of the Project 💡](#-electronic-design-of-the-project-)
-    - **4.1** [Electronic Circuit Diagram](#electronic-circuit-diagram-)
-    - **4.2** [Components of the Electronic Circuit](#components-of-the-electronic-circuit-)
-- **5.0** [📲 Configuration and Execution of the Code 📲](#-configuration-and-execution-of-the-code-)
-    - **5.1** [Connect the Phone to the Computer with Iriun Webcam](#connect-the-phone-to-the-computer-with-iriun-webcam)
-    - **5.2** [Execute the Color Extraction Calibration Cell](#execute-the-color-extraction-calibration-cell)
-    - **5.3** [Load the Values into the Functions Cell](#load-the-values-into-the-functions-cell)
-    - **5.4** [Run the SERIAL PORT Cell](#run-the-serial-port-cell)
-    - **5.5** [Upload the Code to the Arduino Board](#upload-the-code-to-the-arduino-board)
-- **6.0** [🎮 Start the Game 🎮](#-start-the-game-)
-    - **6.1** [Considerations](#considerations-)
-- **7.0** [🤖 Project in Operation 🤖](#-project-in-operation-)
-- **8.0** [♛ Future Proposals and Improvements ♛](#-future-proposals-and-improvements-)
-- **9.0** [📝 Acknowledgments 📝](#-acknowledgments-)
+- **2.0** [📲 Project Features 📲](-project-features-)
+    - **2.1** [Voice Command Control](#voice-command-control)
+    - **2.2** [Integration with Chess.com](#integration-with-chess.com)
+    - **2.3** [Kinematic Simulation](#kinematic-simulation)
+    - **2.4** [Graphical User Interface and Autonomous Play](#graphical-user-iterface-and-autonomous-play)
+ - **3.0** [💻 Integrated Resources and Technologies 💻](#-integrated-resources-and-technologies-)
+    - **3.1** [Software Used](#software-used-)
+    - **3.2** [Python Libraries Used](#python-libraries-used-)
+- **4.0** [🔩 Mechanical Design and Kinematics 🔩](#-mechanical-design-and-kinematics-)
+    - **4.1** [Direct Kinematics](#direct-kinematics-)
+    - **4.2** [Inverse Kinematics](#inverse-kinematics-)
+    - **4.3** [Mechanical Design of the Robotic Arm](#mechanical-design-of-the-robotic-arm-)
+    - **4.4** [Representation of the Robotic Arm in SolidWorks](#representation-of-the-robotic-arm-in-solidworks-)
+    - **4.5** [Design of the Pieces and the Box](#design-of-the-pieces-and-the-box-)
+    - **4.6** [Chessboard](#chessboard-)
+    - **4.7** [Recycled Materials Used](#recycled-materials-used-)
+- **5.0** [💡 Electronic Design of the Project 💡](#-electronic-design-of-the-project-)
+    - **5.1** [Electronic Circuit Diagram](#electronic-circuit-diagram-)
+    - **5.2** [Components of the Electronic Circuit](#components-of-the-electronic-circuit-)
+- **6.0** [📲 Configuration and Execution of the Code 📲](#-configuration-and-execution-of-the-code-)
+    - **6.1** [Connect the Phone to the Computer with Iriun Webcam](#connect-the-phone-to-the-computer-with-iriun-webcam)
+    - **6.2** [Execute the Color Extraction Calibration Cell](#execute-the-color-extraction-calibration-cell)
+    - **6.3** [Load the Values into the Functions Cell](#load-the-values-into-the-functions-cell)
+    - **6.4** [Run the SERIAL PORT Cell](#run-the-serial-port-cell)
+    - **6.5** [Upload the Code to the Arduino Board](#upload-the-code-to-the-arduino-board)
+- **7.0** [🎮 Start the Game 🎮](#-start-the-game-)
+    - **7.1** [Considerations](#considerations-)
+- **8.0** [🤖 Project in Operation 🤖](#-project-in-operation-)
+- **9.0** [♛ Future Proposals and Improvements ♛](#-future-proposals-and-improvements-)
+- **10.0** [📝 Acknowledgments 📝](#-acknowledgments-)
   
 # Introduction 🔗
 
 This project, titled **"MecaChess Robotic Arm,"** aims to create an anthropomorphic robotic arm with 4 degrees of freedom, designed to play chess autonomously. Additionally, it includes extra features that allow it to set up pieces at the start of a game, play through the Chess.com application, move via voice commands, and identify illegal moves, among others. To make it more accessible, affordable and recycled materials were used, achieving an optimal balance between cost and precision without compromising the arm's functionality. Finally, work continues on incorporating new features, such as implementing artificial intelligence and design improvements, among other aspects.
+
+<h1 align="center">📲 Project Features 📲</h1>
+This project presents an innovative chess-playing experience, incorporating multiple functionalities that enhance interactivity and control. Below are the main features:
+
+# Voice Command Control
+The system allows users to move pieces and capture opponents using voice commands. Simply indicate the squares to which you want to move the pieces or the ones you wish to capture, and the robotic arm will execute the corresponding action.
+
+# Integration with Chess.com
+Users can play online against other players on the Chess.com platform. The robotic arm replicates the moves made by opponents in real-time, providing a smooth and dynamic gaming experience.
+
+# Kinematic Simulation
+A Python program has been developed to simulate both direct and inverse kinematics of the robotic arm. This simulation is conducted in a three-dimensional plane, allowing for visualization and planning of movements before execution. Once calculated, commands are sent to the microcontroller for precise replication by the arm.
+
+# Graphical User Interface and Autonomous Play
+The project's graphical user interface displays key information during the game, such as the validity of each move, the moves made, and the player's turn. Additionally, the system has the capability to play chess autonomously, evaluating possible moves and making strategic decisions. This allows users to enjoy a game without manual intervention, making the experience more immersive.
+
+This project combines advanced technology and fun, offering a unique and engaging chess-playing experience.
 
 <h1 align="center">💻 Integrated Resources and Technologies 💻</h1>
 
