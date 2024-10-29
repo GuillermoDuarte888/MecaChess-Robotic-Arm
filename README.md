@@ -5,6 +5,8 @@
 
 <p align="center">
   <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/blob/main/Imagenes/Demostracion%20Brazo%20Robot.gif" alt="Demostración" width="300"/>
+  <br>
+  <em>Demostración del Brazo Robótico en acción ♟️</em>
 </p>
 
 # Team Members
