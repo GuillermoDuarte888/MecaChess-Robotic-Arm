@@ -1,12 +1,12 @@
 
 
 <h1 align="center" style="font-size: 3em;">♘ MecaChess Robotic Arm ♘</h1>
-<h2 align="center" style="font-size: 1.5em; color: #555;">An Autonomous Chess Playing Robot</h2>
+
 
 <p align="center">
   <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/blob/main/Imagenes/Demostracion%20Brazo%20Robot.gif" alt="Demostración" width="300"/>
   <br>
-  <em>Demostración del Brazo Robótico en acción ♟️</em>
+  <em>MecaChess in Action</em>
 </p>
 
 # Team Members
@@ -82,6 +82,8 @@ Direct kinematics allows for the calculation of the position and orientation of 
 
 <p align="center">
   <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/raw/main/Imagenes/Cinematica%20Directa%20Robot%204%20GDL.png" alt="Brazo Robótico" width="800"/>
+  <br>
+  <em>Direct Kinematics Diagram</em>
 </p>
 
 The following program, developed in Python, allows for simulating various joint configurations that reach the same position of the robotic manipulator's end effector, thus showcasing the different available alternatives. In the image on the right, it can be observed that q3 has the "elbow up" configuration, which requires q2 to be positioned downwards, as its calculation depends on q3. On the other hand, in the image on the left, q3 presents the "elbow down" configuration, which means that q2 must be positioned upwards, according to the relationship mentioned between both angles. In this way, it can be seen how both configurations achieve the same position and orientation of the manipulator's end effector.
@@ -89,6 +91,8 @@ The following program, developed in Python, allows for simulating various joint 
 
 <p align="center">
   <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/raw/main/Imagenes/Cinematica%20Directa%20simulacion.png" alt="Brazo Robótico" width="1100"/>
+  <br>
+  <em>Direct Kinematics Simulation</em>
 </p>
 
 
@@ -99,6 +103,8 @@ In the context of the chess robot, inverse kinematics is used to determine the j
 
 <p align="center">
   <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/raw/main/Imagenes/Cinematica%20Directa%20e%20Inversa.png" alt="Brazo Robótico" width="1100"/>
+  <br>
+  <em>Kinematics Simulation</em>
 </p>
 
 # Mechanical Design of the Robotic Arm 🎨
@@ -107,7 +113,10 @@ In this section, the mechanical design of the chess robot is presented, breaking
 
 <p align="center">
   <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/raw/main/Imagenes/Piezas%20del%20Brazo%20Robot%20.png" alt="Brazo Robótico" width="1100"/>
+  <br>
+  <em>Mechanical parts that compose the robotic arm</em>
 </p>
+
 
 | Number | Component                       | Description                                       | Quantity             |
 |--------|---------------------------------|---------------------------------------------------|----------------------|
@@ -126,8 +135,9 @@ In this section, the mechanical design of the chess robot is presented, breaking
 # Representation of the Robotic Arm in SolidWorks 🔧
 <p align="center">
   <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/raw/main/Imagenes/Brazo%20Robot%20dise%C3%B1o%20completo.png" alt="Brazo Robótico" width="500"/>
+  <br>
+  <em>Robot arm in SolidWorks</em>
 </p>
-
 
 # Design of the Pieces and the Box 📦
 
@@ -140,6 +150,8 @@ This focus on design and stability reflects a commitment to the functionality an
 
 <p align="center">
   <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/blob/main/Imagenes/Piezas%20Verdes.JPG" alt="Brazo Robótico" width="500"/>
+  <br>
+  <em>Rendering of the parts</em>
 </p>
 
 # Chessboard ♘
@@ -149,6 +161,8 @@ The chessboard measures 18 x 18 cm and was handmade, painted on recycled wood. T
 
 <p align="center">
   <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/raw/main/Imagenes/Tablero.png" alt="Brazo Robótico" width="500"/>
+  <br>
+  <em>Chessboard</em>
 </p>
 
 
@@ -177,6 +191,8 @@ In this section, the electronics used in the project are described. Wokwi was us
 
 <p align="center">
   <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/raw/main/Imagenes/Circuito%20en%20wokwi.png" alt="Brazo Robótico" width="800"/>
+  <br>
+  <em>Wiring of the electronic circuit</em>
 </p>
 
 # Components of the Electronic Circuit 🧩
@@ -283,6 +299,8 @@ baud_rate = 9600       # Communication speed with Arduino
 
 <p align="center">
   <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/raw/main/Imagenes/Interfaz.png" alt="Interfaz" width="800"/>
+  <br>
+  <em>Graphical interface</em>
 </p>
 
 # Considerations 📋
@@ -305,10 +323,14 @@ It is essential that no actions are taken on the board unless it is the player's
 
 <p align="center">
   <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/raw/main/Imagenes/brazo%20robot.gif" alt="Demostración" width="300"/>
+  <br>
+  <em>Robot arm placing pieces on the board</em>
 </p>
 
 <p align="center">
   <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/raw/main/Imagenes/Robot%20Jugada.gif" alt="Demostración" width="300"/>
+  <br>
+  <em>Capturing the piece</em>
 </p>
 
 <h1 align="center">♛ Future Proposals and Improvements ♛</h1> 
