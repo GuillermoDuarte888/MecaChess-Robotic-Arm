@@ -3,12 +3,10 @@
   <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/raw/main/Imagenes/Logo%20de%20la%20Facultad%20de%20Ingenieria.png" alt="Brazo Robótico" width="800"/>
 </p>
 
-
-
-<h1 align="center" style="font-size: 3em;">♟️ MecaChess Robotic Arm ♟️</h1>
+<h1 align="center" style="font-size: 3em;">♟️ MecaChess Robotic Arm ♘</h1>
 
 <p align="center">
-  <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/raw/main/Imagenes/brazo%20robot.jpg" width="400"/>
+  <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/blob/main/Imagenes/Demostracion%20Brazo%20Robot.gif" alt="Demostración" width="300"/>
 </p>
 
 # Team Members
