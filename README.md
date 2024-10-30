@@ -388,7 +388,7 @@ It is essential that no actions are taken on the board unless it is the player's
 
 In this section, you can observe the robotic chess arm in action. The arm moves in real life, showcasing its capabilities in handling chess pieces.
 
-[Video link, demonstration of the robotic arm](https://www.youtube.com/watch?v=mJXuzqAW_us)
+[Click here to watch the robotic arm in action on YouTube!](https://www.youtube.com/watch?v=mJXuzqAW_us)
 
 Below are a couple of GIFs demonstrating the functionality of the robotic arm:
 
