@@ -386,6 +386,8 @@ It is essential that no actions are taken on the board unless it is the player's
 
 <h1 align="center">🤖 Project in Operation 🤖</h1>
 
+In this section, you can observe the robotic chess arm in action. The arm moves in real life, showcasing its capabilities in handling chess pieces.
+
 [Video link, demonstration of the robotic arm](https://www.youtube.com/watch?v=mJXuzqAW_us)
 
 <p align="center">
