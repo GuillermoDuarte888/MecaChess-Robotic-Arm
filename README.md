@@ -115,7 +115,7 @@ This project combines advanced technology and fun, offering a unique and engagin
 | Copy                     | A module that allows the creation of shallow and deep copies of objects in Python.                 |
 | PyQt                     | The PyQt library was used to develop the graphical interface for the kinematics, facilitating user interaction with the system. |
 
->.[!NOTE].
+>[!NOTE]
 > These libraries are used only in the main code.
 
 <h1 align="center">🔩 Mechanical Design and Kinematics 🔩</h1>
