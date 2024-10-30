@@ -151,12 +151,6 @@ When inputting values, the simulation visualizes the links of the robotic arm an
   <em>Forward and inverse kinematics with interface made in PyQt</em>
 </p>
 
-
-## Inverse Kinematics 
-
-In the context of the chess robot, inverse kinematics is used to determine the joint angles required to reach a specific position and orientation, such as placing the end effector on a square of the board. Both geometric and analytical methods are implemented to verify the results, considering different configurations, such as elbow up and elbow down. This adjustment capability is essential to ensure precise and effective movement of the robot when making its moves. As a form of validation, it can be observed that the position and orientation provided by direct kinematics, when input into inverse kinematics, generate the same joint angles used in direct kinematics. This validates the accuracy of both methods and ensures that the robot can effectively reproduce the desired positions on the board.
-
-
 ## Mechanical Design of the Robotic Arm 
 
 In this section, the mechanical design of the chess robot is presented, breaking down its various components. Each part of the robot is identified with a number in the image, which will facilitate its explanation. Below is a table detailing the functions and features of each piece.
