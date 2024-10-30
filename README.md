@@ -35,7 +35,7 @@
 - **5.0** [💡 Electronic Design of the Project 💡](#-electronic-design-of-the-project-)
     - **5.1** [Electronic Circuit Diagram](#electronic-circuit-diagram-)
     - **5.2** [Components of the Electronic Circuit](#components-of-the-electronic-circuit-)
-- **6.0** [📲 Configuration and Execution of the Code 📲](#-configuration-and-execution-of-the-code-)
+- **6.0** [📲 Setting Up and Running the Main Code 📲](#Setting-Up-and-Running-the-Main-Code)
     - **6.1** [Connect the Phone to the Computer with Iriun Webcam](#connect-the-phone-to-the-computer-with-iriun-webcam)
     - **6.2** [Execute the Color Extraction Calibration Cell](#execute-the-color-extraction-calibration-cell)
     - **6.3** [Load the Values into the Functions Cell](#load-the-values-into-the-functions-cell)
@@ -278,7 +278,7 @@ In this section, the electronics used in the project are described. Wokwi was us
 
 The circuit was implemented on a perforated copper board, as the circuit design is quite simple. This type of board allows for efficient and quick connections without the need for software design or a more complex printed circuit board (PCB). The simplicity of the wiring facilitates the construction and modification of the circuit as updates are made.
 
-<h1 align="center">📲 Configuration and Execution of the Code 📲</h1>
+<h1 align="center">📲 Setting Up and Running the Main Code 📲</h1>
 
 In this section, we will explain how to compile the project's source code and load the necessary values in Python. The steps for using the appropriate development environment will be covered, ensuring that the code runs correctly. Additionally, details about parameter configuration and connection verification before starting the upload process will be included.
 
