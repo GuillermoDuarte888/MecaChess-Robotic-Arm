@@ -390,11 +390,19 @@ In this section, you can observe the robotic chess arm in action. The arm moves 
 
 [Video link, demonstration of the robotic arm](https://www.youtube.com/watch?v=mJXuzqAW_us)
 
+Below are a couple of GIFs demonstrating the functionality of the robotic arm:
+
+1. **Initial Setup**  
+   The first GIF shows the robotic arm arranging chess pieces from the white box into their starting positions on the board. This is particularly useful for setting up the game, as the arm places both green and blue pieces in their correct spots.
+   
 <p align="center">
   <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/raw/main/Imagenes/brazo%20robot.gif" alt="Demostración" width="300"/>
   <br>
   <em>Robot arm placing pieces on the board</em>
 </p>
+
+2.**Capturing a Piece**  
+   The second GIF illustrates how the arm captures a chess piece. When a piece is taken, it is moved to a designated box for captured pieces, ensuring proper handling of the game.
 
 <p align="center">
   <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/raw/main/Imagenes/Robot%20Jugada.gif" alt="Demostración" width="300"/>
