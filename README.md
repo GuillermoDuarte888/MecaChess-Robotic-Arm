@@ -131,13 +131,16 @@ Direct kinematics allows for the calculation of the position and orientation of 
 </p>
 
 ## Inverse Kinematics
-Inverse kinematics (IK) is a crucial concept in robotics and animation, allowing us to determine the joint configurations needed to achieve a desired position and orientation of an end effector. One of the fascinating aspects of IK is that there are often multiple possible solutions to reach the same target position. 
+Inverse kinematics (IK) is a crucial concept in robotics , allowing us to determine the joint configurations needed to achieve a desired position and orientation of an end effector. One of the aspects of IK is that there are often multiple possible solutions to reach the same target position. 
 
-In the case of a robotic arm, the elbow joints can be oriented in two ways: "elbow up" and "elbow down." This duality provides flexibility in motion but also adds complexity to the calculations.
+In the case of a robotic arm, the elbow joints can be oriented in different ways: "elbow up" and "elbow down." This duality provides flexibility in motion but also adds complexity to the calculations.
 
-To compute the joint angles (q1, q2, q3, and q4) needed to reach a specified position (px, py, pz) and orientation (represented by Euler angles, focusing primarily on the pitch angle), we can apply various mathematical techniques. By inputting the desired position and orientation into the IK algorithms, we can derive the corresponding joint values, enabling precise control of the robotic arm.
+To compute the joint angles (q1, q2, q3, and q4) needed to reach a specified position (px, py, pz) and orientation (represented by Euler angles, focusing primarily on the pitch angle), we can apply various mathematical techniques. We utilize two different methods for obtaining the inverse kinematics:
 
-Understanding and implementing inverse kinematics is essential for achieving smooth and efficient movements in robotic systems.
+1. **Geometric Method**
+2. **Analytical Method**
+
+In the following image, the robotic arm is illustrated for working with the geometric method.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f6cc374f-69de-45bd-9fd1-19a5f92bc60c" alt="Inverse Kinematics" width="800"/>
