@@ -65,7 +65,13 @@ This project presents an innovative chess-playing experience, incorporating mult
 The system allows users to move pieces and capture opponents using voice commands. Simply indicate the squares to which you want to move the pieces or the ones you wish to capture, and the robotic arm will execute the corresponding action.
 
 ## Integration with Chess
-Users can play online against other players on the Chess.com platform. The robotic arm replicates the moves made by opponents in real-time, providing a smooth and dynamic gaming experience.
+Users can play online against other players on the [Chess.com](https://www.chess.com/home) platform. The robotic arm replicates the moves made by opponents in real-time, providing a smooth and dynamic gaming experience.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c86f5850-0269-4ffa-8e88-f5735e09054a" alt="Colores de chess.com" width="500"/>
+  <br>
+  <em>Board setup and colors on chess.com</em>
+</p>
 
 ## Kinematic Simulation
 A Python program has been developed to simulate both direct and inverse kinematics of the robotic arm. This simulation is conducted in a three-dimensional plane, allowing for visualization and planning of movements before execution. Once calculated, commands are sent to the microcontroller for precise replication by the arm.
