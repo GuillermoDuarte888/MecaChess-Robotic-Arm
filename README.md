@@ -61,16 +61,16 @@ This project, titled **"MecaChess Robotic Arm,"** aims to create an anthropomorp
 <h1 align="center">📲 Project Features 📲</h1>
 This project presents an innovative chess-playing experience, incorporating multiple functionalities that enhance interactivity and control. Below are the main features:
 
-# Voice Command Control
+## Voice Command Control
 The system allows users to move pieces and capture opponents using voice commands. Simply indicate the squares to which you want to move the pieces or the ones you wish to capture, and the robotic arm will execute the corresponding action.
 
-# Integration with Chess
+## Integration with Chess
 Users can play online against other players on the Chess.com platform. The robotic arm replicates the moves made by opponents in real-time, providing a smooth and dynamic gaming experience.
 
-# Kinematic Simulation
+## Kinematic Simulation
 A Python program has been developed to simulate both direct and inverse kinematics of the robotic arm. This simulation is conducted in a three-dimensional plane, allowing for visualization and planning of movements before execution. Once calculated, commands are sent to the microcontroller for precise replication by the arm.
 
-# Graphical User Interface and Autonomous Play
+## Graphical User Interface and Autonomous Play
 The project's graphical user interface displays key information during the game, such as the validity of each move, the moves made, and the player's turn. Additionally, the system has the capability to play chess autonomously, evaluating possible moves and making strategic decisions. This allows users to enjoy a game without manual intervention, making the experience more immersive.
 
 This project combines advanced technology and fun, offering a unique and engaging chess-playing experience.
@@ -84,7 +84,7 @@ This project combines advanced technology and fun, offering a unique and engagin
 
 <h1 align="center">💻 Integrated Resources and Technologies 💻</h1>
 
-# Software Used ♕
+## Software Used ♕
 
 | Software                 | Description                                                                                         |
 |--------------------------|-----------------------------------------------------------------------------------------------------|
@@ -95,7 +95,7 @@ This project combines advanced technology and fun, offering a unique and engagin
 | Iriun Webcam             | Iriun Webcam was implemented to establish a connection between the mobile phone, used as a camera, and the Python programming environment, facilitating efficient control and management. |
 | Wokwi                    | Wokwi is an online tool used to design and simulate electronic circuits. It allows the creation of interactive diagrams, making it easier to visualize the circuit and test the code before implementing it in hardware. |
 
-# Python Libraries Used 📚
+## Python Libraries Used 📚
 
 | Library                  | Description                                                                                         |
 |--------------------------|-----------------------------------------------------------------------------------------------------|
@@ -112,7 +112,7 @@ This project combines advanced technology and fun, offering a unique and engagin
 
 <h1 align="center">🔩 Mechanical Design and Kinematics 🔩</h1>
 
-# Direct Kinematics ♖
+## Direct Kinematics 
 
 Direct kinematics allows for the calculation of the position and orientation of the end effector of the chess robot based on the joint values. To achieve this, homogeneous transformations are systematically applied using the Denavit-Hartenberg method. This approach provides a standard framework for representing joint configurations and facilitates the obtaining of the end effector's coordinates in three-dimensional space. Understanding this process is fundamental for analyzing the robot's movement on the chessboard and is essential for designing trajectory control algorithms that optimize its performance in the game.
 
@@ -132,7 +132,7 @@ The following program, developed in Python, allows for simulating various joint 
 </p>
 
 
-# Inverse Kinematics ♗
+## Inverse Kinematics 
 
 In the context of the chess robot, inverse kinematics is used to determine the joint angles required to reach a specific position and orientation, such as placing the end effector on a square of the board. Both geometric and analytical methods are implemented to verify the results, considering different configurations, such as elbow up and elbow down. This adjustment capability is essential to ensure precise and effective movement of the robot when making its moves. As a form of validation, it can be observed that the position and orientation provided by direct kinematics, when input into inverse kinematics, generate the same joint angles used in direct kinematics. This validates the accuracy of both methods and ensures that the robot can effectively reproduce the desired positions on the board.
 
@@ -143,7 +143,7 @@ In the context of the chess robot, inverse kinematics is used to determine the j
   <em>Kinematics Simulation</em>
 </p>
 
-# Mechanical Design of the Robotic Arm 🎨
+## Mechanical Design of the Robotic Arm 
 
 In this section, the mechanical design of the chess robot is presented, breaking down its various components. Each part of the robot is identified with a number in the image, which will facilitate its explanation. Below is a table detailing the functions and features of each piece.
 
@@ -168,14 +168,14 @@ In this section, the mechanical design of the chess robot is presented, breaking
 | 10     | Fingers                         | Elements that allow for precise and controlled grasping of pieces. | 2  |
 
 
-# Representation of the Robotic Arm in SolidWorks 🔧
+## Representation of the Robotic Arm in SolidWorks 
 <p align="center">
   <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/blob/main/Imagenes/Renderizacion%20del%20Brazo%20Robot.JPG" alt="Brazo Robótico" width="500"/>
   <br>
   <em>Robot arm in SolidWorks</em>
 </p>
 
-# Design of the Pieces and the Box 📦
+## Design of the Pieces and the Box 
 
 The chess pieces and the box were designed and redesigned multiple times to achieve optimal shapes. This iterative process allowed the pieces to adapt not only more effectively to the board but also to the robot's gripper, ensuring a secure and functional grasp.
 
@@ -204,7 +204,7 @@ This focus on design and stability reflects a commitment to the functionality an
   <em>Rendering of the parts</em>
 </p>
 
-# Chessboard ♘
+## Chessboard 
 
 The chessboard measures 18 x 18 cm and was handmade, painted on recycled wood. The classic black and white design was chosen, as this contrast allows for better piece detection during play. Additionally, a yellow circle was painted in each corner of the board to aid in board detection. This approach not only highlights the pieces but also provides a traditional aesthetic that is appreciated by players. The choice of recycled materials reflects a commitment to sustainability and creativity in design.
 
@@ -216,7 +216,7 @@ The chessboard measures 18 x 18 cm and was handmade, painted on recycled wood. T
 </p>
 
 
-# Recycled Materials Used 🔄 
+## Recycled Materials Used  
 
 In this project, a conscious effort was made to use recycled materials, contributing to sustainability and waste reduction. This approach not only saves resources but also demonstrates that it is not necessary to spend a lot of money when ingenuity and creativity prevail. Using recycled materials is not only a sustainable option but also opens the door to unique innovations in the design and construction of the project. Below are the materials used:
 
@@ -237,7 +237,7 @@ In this project, a conscious effort was made to use recycled materials, contribu
 
 In this section, the electronics used in the project are described. Wokwi was used to present the schematic in a more readable and understandable format for everyone. Wokwi is an online tool that allows for the simulation of electronic circuits, making it easier to visualize and understand the design.
 
-# Electronic Circuit Diagram 🔌
+## Electronic Circuit Diagram 
 
 <p align="center">
   <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/raw/main/Imagenes/Circuito%20en%20wokwi.png" alt="Brazo Robótico" width="800"/>
@@ -245,30 +245,30 @@ In this section, the electronics used in the project are described. Wokwi was us
   <em>Wiring of the electronic circuit</em>
 </p>
 
-# Components of the Electronic Circuit 🧩
+## Components of the Electronic Circuit 
 
 - **Microcontroller:** Arduino Mega
-  - 💻 Controls all the components of the circuit and manages the project's logic.
+  - Controls all the components of the circuit and manages the project's logic.
 
 - **Servomotors:**
-  - ⚙️ **5 MG996R Servos:** Used in the joints Qn; the pin outputs are 7, 8, 9, 10, and 11.
-  - ⚙️ **1 SG90 Servo:** Used for the gripper, allowing it to open and close, output on pin 13.
+  - **5 MG996R Servos:** Used in the joints Qn; the pin outputs are 7, 8, 9, 10, and 11.
+  - **1 SG90 Servo:** Used for the gripper, allowing it to open and close, output on pin 13.
 
 - **Resistors:**
-  - ⚡ **6 Resistors of 220 Ω:** Used to limit current in the circuit and protect the components.
+  - **6 Resistors of 220 Ω:** Used to limit current in the circuit and protect the components.
 
 - **LEDs:**
-  - 🔴 **4 RGB LEDs:** Status indicators or visual signals, with pin outputs of 22, 26, and 30.
-  - 🟢 **1 Green LED:** Functionality indicator, output on pin 3.
+  - **4 RGB LEDs:** Status indicators or visual signals, with pin outputs of 22, 26, and 30.
+  - **1 Green LED:** Functionality indicator, output on pin 3.
 
 - **Button:**
-  - ⚪ **1 4-Pin Button:** Allows user interaction and manual control of the circuit, output on pin 2.
+  - **1 4-Pin Button:** Allows user interaction and manual control of the circuit, output on pin 2.
 
 - **Buzzer:**
-  - 🔔 **1 Buzzer:** Emits sounds for alerts or signals, controlled via pin 34.
+  - **1 Buzzer:** Emits sounds for alerts or signals, controlled via pin 34.
 
 - **Laboratory Power Supply:**
-  - 🔋 **Adjustable 5.5 V DC Power Supply:** Provides the necessary power for the circuit.
+  - **Adjustable 5.5 V DC Power Supply:** Provides the necessary power for the circuit.
 
 The circuit was implemented on a perforated copper board, as the circuit design is quite simple. This type of board allows for efficient and quick connections without the need for software design or a more complex printed circuit board (PCB). The simplicity of the wiring facilitates the construction and modification of the circuit as updates are made.
 
@@ -276,7 +276,7 @@ The circuit was implemented on a perforated copper board, as the circuit design 
 
 In this section, we will explain how to compile the project's source code and load the necessary values in Python. The steps for using the appropriate development environment will be covered, ensuring that the code runs correctly. Additionally, details about parameter configuration and connection verification before starting the upload process will be included.
 
-# Connect the Phone to the Computer with Iriun Webcam
+## Connect the Phone to the Computer with Iriun Webcam
 
 1. **Installation:**
    - **Phone:** Download Iriun Webcam from the [Play Store](https://play.google.com/store/apps/details?id=com.iriun.wifi.cam).
@@ -289,7 +289,7 @@ In this section, we will explain how to compile the project's source code and lo
 3. **Verification:** Check that the software on the computer displays the video feed from the phone.
 
 
-# Execute the Color Extraction Calibration Cell
+## Execute the Color Extraction Calibration Cell
 
 1. Go to the Python code and execute the first cell titled **🔷Color Extraction Calibration🔷**.
 2. The camera will open. Position the camera so that it captures the board and pieces.
@@ -300,7 +300,7 @@ In this section, we will explain how to compile the project's source code and lo
 7. The values will be displayed below the code in the mentioned order.
 8. Clarification: Adjust the colors as many times as necessary by clicking on each of them, keeping in mind that it will only take the values when you press "v".
 
-# Load the Values into the Functions Cell
+## Load the Values into the Functions Cell
 
 1. Go to the cell titled **🔶FUNCTION CODES USED🔶**.
 2. Load the values obtained from the calibration in the following format, following the order:
@@ -315,7 +315,7 @@ AV1, AV2, AV3, AV4, AV5, AV6 = [79, 90, 76, 180, 255, 255]    # Green and Blue
 3. Make sure to load the values into the corresponding vectors within the brackets [].
 4. Once loaded, execute the cell to continue.
 
-# Run the SERIAL PORT Cell
+## Run the SERIAL PORT Cell
 
 1. Execute the cell titled **🌸SERIAL PORT🌸**.
 2. Load the port corresponding to which the Arduino is connected in the following format:
@@ -327,7 +327,7 @@ baud_rate = 9600       # Communication speed with Arduino
 ```
 3. To verify the port, access the Arduino IDE and go to **Tools** > **Port**.
 
-# Upload the Code to the Arduino Board
+## Upload the Code to the Arduino Board
 
 1. Select the corresponding port and board in the Arduino IDE.
 2. Compile the code to check for any errors.
@@ -353,7 +353,7 @@ baud_rate = 9600       # Communication speed with Arduino
   <em>Graphical interface</em>
 </p>
 
-# Considerations 📋
+## Considerations 
 
 It is essential that no actions are taken on the board unless it is the player's turn, along with other recommendations detailed below:
 
