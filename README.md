@@ -73,6 +73,14 @@ Users can play online against other players on the [Chess.com](https://www.chess
   <em>Board setup and colors on chess.com</em>
 </p>
 
+Below is a sequence of movements, and we see what Python actually sees when executing each movement. In this way, the location of the pieces can be obtained anywhere on the board and chess can be played remotely online using the robotic arm.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/294ad7f8-78fa-451c-a1b5-81eba574587d" alt="Colores de chess.com" width="500"/>
+  <br>
+  <em>Sequence of moves read on chess.com</em>
+</p>
+
 ## Kinematic Simulation
 A Python program has been developed to simulate both direct and inverse kinematics of the robotic arm. This simulation is conducted in a three-dimensional plane, allowing for visualization and planning of movements before execution. Once calculated, commands are sent to the microcontroller for precise replication by the arm.
 
