@@ -287,7 +287,7 @@ In this section, we will explain how to compile the project's source code and lo
 ## Connect the Phone to the Computer with Iriun Webcam
 
 1. **Installation:**
-   - **Phone:** Download Iriun Webcam from the [Play Store](https://play.google.com/store/apps/details?id=com.iriun.wifi.cam).
+   - **Phone:** Download Iriun Webcam from the [Play Store](https://play.google.com/store/apps/details?id=com.jacksoftw.webcam&hl=es_AR).
    - **Computer:** Download and install Iriun from [its website](https://iriun.com).
 
 2. **Connection:**
