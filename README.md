@@ -97,7 +97,7 @@ This project combines advanced technology and fun, offering a unique and engagin
 | SolidWorks 2023          | SolidWorks 2023 was used for designing the elemental assembly, modeling various components, and utilizing its library of tools for screws, nuts, and other fastening elements. |
 | Python                   | Python was used for developing the game logic, including piece detection, board management, and move mapping.   |
 | Arduino IDE              | Arduino IDE was used to program the kinematics logic and the necessary functions to control the movements of the robotic arm. |
-| Stockfish                | Stockfish was used as a chess engine for evaluating positions and generating optimal moves during games.         |
+| Stockfish                | [Stockfish](https://stockfishchess.org/download/) was used as a chess engine for evaluating positions and generating optimal moves during games.         |
 | Iriun Webcam             | Iriun Webcam was implemented to establish a connection between the mobile phone, used as a camera, and the Python programming environment, facilitating efficient control and management. |
 | Wokwi                    | Wokwi is an online tool used to design and simulate electronic circuits. It allows the creation of interactive diagrams, making it easier to visualize the circuit and test the code before implementing it in hardware. |
 
