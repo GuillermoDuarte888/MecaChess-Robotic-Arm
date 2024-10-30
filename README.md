@@ -278,7 +278,7 @@ In this section, the electronics used in the project are described. Wokwi was us
 
 The circuit was implemented on a perforated copper board, as the circuit design is quite simple. This type of board allows for efficient and quick connections without the need for software design or a more complex printed circuit board (PCB). The simplicity of the wiring facilitates the construction and modification of the circuit as updates are made.
 
-<h1 align="center">📲 Setting Up and Running the Main Code 📲</h1>
+<h1 align="center">📲Setting Up and Running the Main Code📲</h1>
 
 In this section, we will explain how to compile the project's source code and load the necessary values in Python. The steps for using the appropriate development environment will be covered, ensuring that the code runs correctly. Additionally, details about parameter configuration and connection verification before starting the upload process will be included.
 
