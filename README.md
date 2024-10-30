@@ -80,7 +80,7 @@ A Python program has been developed to simulate both direct and inverse kinemati
 The project's graphical user interface displays key information during the game, such as the validity of each move, the moves made, and the player's turn. Additionally, the system has the capability to play chess autonomously, evaluating possible moves and making strategic decisions. This allows users to enjoy a game without manual intervention, making the experience more immersive.
 
 <p align="center">
-  <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/blob/main/Imagenes/Jugada%20del%20Pastor.gif" alt="Colores de chess.com" width="500"/>
+  <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/blob/main/Imagenes/Jugada%20del%20Pastor.gif" alt="Colores de chess.com" width="600"/>
   <br>
   <em>Fool's Mate</em>
 </p>
