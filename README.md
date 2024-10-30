@@ -179,6 +179,13 @@ In this section, the mechanical design of the chess robot is presented, breaking
 
 The chess pieces and the box were designed and redesigned multiple times to achieve optimal shapes. This iterative process allowed the pieces to adapt not only more effectively to the board but also to the robot's gripper, ensuring a secure and functional grasp.
 
+
+<p align="center">
+  <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/blob/main/Imagenes/Untitled11.JPG" alt="Brazo Robótico" width="500"/>
+  <br>
+  <em>Rendering of the box with its parts</em>
+</p>
+
 The box was designed in SolidWorks, which facilitated the creation of a precise design tailored to the necessary dimensions. To increase the stability of the pieces, a nut was incorporated into the bottom of each one. This addition not only provides greater weight but also helps lower the center of gravity, which in turn improves the stability of the pieces during play.
 
 This focus on design and stability reflects a commitment to the functionality and aesthetics of the project, ensuring that each component works in harmony.
