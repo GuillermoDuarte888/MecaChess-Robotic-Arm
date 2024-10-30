@@ -365,7 +365,7 @@ baud_rate = 9600       # Communication speed with Arduino
 5. For each move of the green pieces, press the red button after completing the move. This will allow the robot to capture the current positions and continue the game development.
 
 <p align="center">
-  <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/blob/main/Imagenes/Tablero%20Interfaz.gif" alt="Interfaz" width="800"/>
+  <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/blob/main/Imagenes/Tablero%20Interfaz.gif" alt="Interfaz" width="500"/>
   <br>
   <em>Graphical interface</em>
 </p>
