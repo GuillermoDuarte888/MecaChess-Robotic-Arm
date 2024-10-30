@@ -99,7 +99,7 @@ This project combines advanced technology and fun, offering a unique and engagin
 | Arduino IDE              | Arduino IDE was used to program the kinematics logic and the necessary functions to control the movements of the robotic arm. |
 | Stockfish                | [Stockfish](https://stockfishchess.org/download/) was used as a chess engine for evaluating positions and generating optimal moves during games.         |
 | Iriun Webcam             | Iriun Webcam was implemented to establish a connection between the mobile phone, used as a camera, and the Python programming environment, facilitating efficient control and management. |
-| Wokwi                    | Wokwi is an online tool used to design and simulate electronic circuits. It allows the creation of interactive diagrams, making it easier to visualize the circuit and test the code before implementing it in hardware. |
+| Wokwi                    | [Wokwi](https://wokwi.com/) is an online tool used to design and simulate electronic circuits. It allows the creation of interactive diagrams, making it easier to visualize the circuit and test the code before implementing it in hardware. |
 
 ## Python Libraries Used 📚
 
