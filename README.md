@@ -393,6 +393,11 @@ It is essential that no actions are taken on the board unless it is the player's
 
 4. **AI Integration:** Integrate artificial intelligence so the system can interact verbally with players, offering feedback and suggestions during the game.
 
+<p align="center">
+  <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/raw/main/Imagenes/Interfaz.png" alt="Interfaz" width="800"/>
+  <br>
+  <em>Detailed Render of the Robot Arm</em>
+</p>
 
 <h1 align="center">📝 Acknowledgments 📝</h1> 
 
