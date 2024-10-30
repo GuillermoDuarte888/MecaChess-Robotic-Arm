@@ -122,7 +122,7 @@ This project combines advanced technology and fun, offering a unique and engagin
 
 ## Direct Kinematics
 
-Direct kinematics allows for the calculation of the position and orientation of the end effector of the chess robot based on the joint values. To achieve this, homogeneous transformations are systematically applied using the Denavit-Hartenberg method. This approach provides a standard framework for representing joint configurations and facilitates the obtaining of the end effector's coordinates in three-dimensional space. Understanding this process is fundamental for analyzing the robot's movement on the chessboard and is essential for designing trajectory control algorithms that optimize its performance in the game.
+Direct kinematics allows for the calculation of the position and orientation of the end effector of the chess robot based on the joint values. To achieve this, homogeneous transformations are systematically applied using the Denavit-Hartenberg method. This approach provides a standard framework for representing joint configurations and facilitates the obtaining of the end effector's coordinates in three-dimensional space. 
 
 <p align="center">
   <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/raw/main/Imagenes/Cinematica%20Directa%20Robot%204%20GDL.png" alt="Direct Kinematics" width="800"/>
