@@ -75,6 +75,13 @@ The project's graphical user interface displays key information during the game,
 
 This project combines advanced technology and fun, offering a unique and engaging chess-playing experience.
 
+
+<p align="center">
+  <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/blob/main/Imagenes/Untitled8.JPG" alt="Brazo Robótico" width="800"/>
+  <br>
+  <em>High-Resolution Render of Robotic Arm Parts</em>
+</p>
+
 <h1 align="center">💻 Integrated Resources and Technologies 💻</h1>
 
 # Software Used ♕
