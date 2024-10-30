@@ -120,18 +120,30 @@ This project combines advanced technology and fun, offering a unique and engagin
 
 <h1 align="center">🔩 Mechanical Design and Kinematics 🔩</h1>
 
-## Direct Kinematics 
+## Direct Kinematics
 
 Direct kinematics allows for the calculation of the position and orientation of the end effector of the chess robot based on the joint values. To achieve this, homogeneous transformations are systematically applied using the Denavit-Hartenberg method. This approach provides a standard framework for representing joint configurations and facilitates the obtaining of the end effector's coordinates in three-dimensional space. Understanding this process is fundamental for analyzing the robot's movement on the chessboard and is essential for designing trajectory control algorithms that optimize its performance in the game.
 
 <p align="center">
-  <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/raw/main/Imagenes/Cinematica%20Directa%20Robot%204%20GDL.png" alt="Brazo Robótico" width="800"/>
+  <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/raw/main/Imagenes/Cinematica%20Directa%20Robot%204%20GDL.png" alt="Direct Kinematics" width="800"/>
   <br>
-  <em>Direct Kinematics Diagram</em>
+  <em>Direct Kinematics Diagram by Denavit-Hartenberg method</em>
 </p>
 
-The following program, developed in Python, allows for simulating various joint configurations that reach the same position of the robotic manipulator's end effector, thus showcasing the different available alternatives. In the image on the right, it can be observed that q3 has the "elbow up" configuration, which requires q2 to be positioned downwards, as its calculation depends on q3. On the other hand, in the image on the left, q3 presents the "elbow down" configuration, which means that q2 must be positioned upwards, according to the relationship mentioned between both angles. In this way, it can be seen how both configurations achieve the same position and orientation of the manipulator's end effector.
+## Inverse Kinematics
+Inverse kinematics refers to the process of determining the joint parameters (angles) needed to position the end effector of a robot at a desired location and orientation in space. Given a set of position values (Px, Py, Pz) and orientation (Euler angles, specifically pitch in this case), we can derive the values for the joints q1, q2, q3, and q4. 
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f6cc374f-69de-45bd-9fd1-19a5f92bc60c" alt="Inverse Kinematics" width="800"/>
+  <br>
+  <em>Inverse kinematics by geometric method</em>
+</p>
+
+### Simulation of Direct and Inverse Kinematics
+
+A simulation was conducted in Python, utilizing several libraries, most notably Matplotlib for visualizing the 3D Cartesian axes, and PyQT for developing the kinematics interface. On the left side of the interface, you can observe the direct kinematics, while the right side displays the inverse kinematics.
+
+When inputting values, the simulation visualizes the links of the robotic arm and its joints, updating in real-time when the "Calculate" button is pressed. Additionally, the program can send commands to an Arduino to replicate the movements of the robotic arm in real life. This application also provides outputs for both direct and inverse kinematics, allowing users to verify results against one another.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/84c889c3-6aad-4fdd-87c6-5bcd99d83bc2" alt="Forward and inverse kinematics" width="1100"/>
