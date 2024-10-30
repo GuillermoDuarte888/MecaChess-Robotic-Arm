@@ -11,7 +11,7 @@
 
 # Team Members
 <p>👤 <a href="https://github.com/GuillermoDuarte888">Guillermo Daniel Duarte</a></p>
-<p>👤 <a href="https://github.com/GastonADiaz">Gaston Alejandro Díaz</a></p>
+<p>👤 <a href="https://github.com/GastonADiaz">Gastón Alejandro Díaz</a></p>
 
 
 # Index
