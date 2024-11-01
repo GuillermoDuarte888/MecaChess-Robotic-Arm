@@ -272,7 +272,7 @@ In this section, the electronics used in the project are described. Wokwi was us
 ## Electronic Circuit Diagram 
 
 <p align="center">
-  <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/blob/main/Imagenes/Circuito%20con%20Wokwi.png" alt="Brazo Robótico" width="800"/>
+  <img src="https://github.com/GuillermoDuarte888/MecaChess-Robotic-Arm/blob/main/Imagenes/Circuito%20Electronico%20con%20Wokwi.png" alt="Brazo Robótico" width="800"/>
   <br>
   <em>Wiring of the electronic circuit</em>
 </p>
